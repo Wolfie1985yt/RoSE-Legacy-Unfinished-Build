@@ -1,0 +1,255 @@
+{
+  "dependencies": [
+    {
+      "name": "hmm",
+      "type": "haxelib",
+      "version": null
+    },
+    {
+      "name": "openfl",
+      "type": "haxelib",
+      "version": "9.1.0"
+    },
+    {
+      "name": "actuate",
+      "type": "haxelib",
+      "version": "1.9.0"
+    },
+    {
+      "name": "box2d",
+      "type": "haxelib",
+      "version": "1.2.3"
+    },
+    {
+      "name": "away3d",
+      "type": "haxelib",
+      "version": "5.0.9"
+    },
+    {
+      "name": "extension-android-support-v4",
+      "type": "haxelib",
+      "version": "1.0.0"
+    },
+    {
+      "name": "extension-androidtools",
+      "type": "haxelib",
+      "version": "1.8.0"
+    },
+    {
+      "name": "perf.js",
+      "type": "haxelib",
+      "version": "1.1.8"
+    },
+    {
+      "name": "flixel",
+      "type": "haxelib",
+      "version": "4.9.0"
+    },
+    {
+      "name": "flixel-demos",
+      "type": "haxelib",
+      "version": "3.3.0"
+    },
+    {
+      "name": "flixel-templates",
+      "type": "haxelib",
+      "version": "2.7.0"
+    },
+    {
+      "name": "flixel-addons",
+      "type": "haxelib",
+      "version": "2.10.0"
+    },
+    {
+      "name": "flixel-tools",
+      "type": "haxelib",
+      "version": "1.5.1"
+    },
+    {
+      "name": "flixel-ui",
+      "type": "haxelib",
+      "version": "2.3.3"
+    },
+    {
+      "name": "format",
+      "type": "haxelib",
+      "version": "3.7.0"
+    },
+    {
+      "name": "haxelib",
+      "type": "haxelib",
+      "version": "4.1.0"
+    },
+    {
+      "name": "hxcpp-debug-server",
+      "type": "haxelib",
+      "version": "1.2.4"
+    },
+    {
+      "name": "layout",
+      "type": "haxelib",
+      "version": "1.2.1"
+    },
+    {
+      "name": "hxjava",
+      "type": "haxelib",
+      "version": "4.2.0"
+    },
+    {
+      "name": "hxp",
+      "type": "haxelib",
+      "version": "1.3.0"
+    },
+    {
+      "name": "hxvm-luajit",
+      "type": "haxelib",
+      "version": "0.0.0"
+    },
+    {
+      "name": "hxjsonast",
+      "type": "haxelib",
+      "version": "1.1.0"
+    },
+    {
+      "name": "markdown",
+      "type": "haxelib",
+      "version": "1.1.3"
+    },
+    {
+      "name": "openfl-samples",
+      "type": "haxelib",
+      "version": "8.7.0"
+    },
+    {
+      "name": "hscript",
+      "type": "haxelib",
+      "version": "2.4.0"
+    },
+    {
+      "name": "refactor",
+      "type": "haxelib",
+      "version": "4.4.2"
+    },
+    {
+      "name": "tjson",
+      "type": "haxelib",
+      "version": "1.4.0"
+    },
+    {
+      "name": "discord_rpc",
+      "type": "git",
+      "dir": null,
+      "ref": "origin",
+      "url": "https://github.com/Aidan63/linc_discord-rpc"
+    },
+    {
+      "name": "extension-webm",
+      "type": "git",
+      "dir": null,
+      "ref": "origin",
+      "url": "https://github.com/HaxeExtension/extension-webm"
+    },
+    {
+      "name": "faxe",
+      "type": "git",
+      "dir": null,
+      "ref": null,
+      "url": "https://github.com/ashea-code/faxe"
+    },
+    {
+      "name": "imgui",
+      "type": "git",
+      "dir": null,
+      "ref": null,
+      "url": "https://github.com/ocornut/imgui"
+    },
+    {
+      "name": "systools",
+      "type": "git",
+      "dir": null,
+      "ref": null,
+      "url": "https://github.com/haya3218/systools"
+    },
+    {
+      "name": "install",
+      "type": "git",
+      "dir": null,
+      "ref": null,
+      "url": "https://github.com/AndroidSDKSources/android-sdk-sources-list"
+    },
+    {
+      "name": "polymod",
+      "type": "git",
+      "dir": null,
+      "ref": null,
+      "url": "https://github.com/larsiusprime/polymod.git"
+    },
+    {
+      "name": "android-ndk",
+      "type": "git",
+      "dir": null,
+      "ref": null,
+      "url": "https://github.com/android/ndk"
+    },
+    {
+      "name": "androidsdksources",
+      "type": "git",
+      "dir": null,
+      "ref": null,
+      "url": "https://github.com/AndroidSDKSources/android-sdk-sources-for-api-level-33"
+    },
+    {
+      "name": "arm-linux-androideabi-4.9",
+      "type": "git",
+      "dir": null,
+      "ref": null,
+      "url": "https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"
+    },
+    {
+      "name": "flxanimate",
+      "type": "git",
+      "dir": null,
+      "ref": "dev",
+      "url": "https://github.com/ShadowMario/flxanimate"
+    },
+    {
+      "name": "linc_luajit",
+      "type": "git",
+      "dir": null,
+      "ref": null,
+      "url": "https://github.com/superpowers04/linc_luajit"
+    },
+    {
+      "name": "hxdiscord_rpc",
+      "type": "git",
+      "dir": null,
+      "ref": null,
+      "url": "https://github.com/MAJigsaw77/hxdiscord_rpc"
+    },
+    {
+      "name": "SScript",
+      "type": "haxelib",
+      "version": "8.1.6"
+    },
+    {
+      "name": "lime-samples",
+      "type": "haxelib",
+      "version": "7.0.0"
+    },
+    {
+      "name": "hxvlc",
+      "type": "haxelib",
+      "version": "1.9.0"
+    },
+    {
+      "name": "hxcpp",
+      "type": "haxelib",
+      "version": "4.2.1"
+    },
+    {
+      "name": "lime",
+      "type": "haxelib",
+      "version": "8.1.0"
+    }
+  ]
+}
