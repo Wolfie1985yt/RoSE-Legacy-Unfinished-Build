@@ -1,0 +1,1 @@
+powershell -command "Get-Process | Where-Object { $_.MainWindowTitle -eq 'Majin' } | Stop-Process"

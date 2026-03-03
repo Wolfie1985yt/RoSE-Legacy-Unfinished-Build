@@ -1,0 +1,11 @@
+@echo off
+color 0a
+cd ..
+haxelib set hxCodec 3.0.2
+echo BUILDING GAME
+lime test windows
+echo.
+echo done.
+pause
+pwd
+explorer.exe export\release\windows\bin

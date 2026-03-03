@@ -1,0 +1,25 @@
+wigglefreq = 0
+wiggleamp = 0
+function onUpdate(elapsed)
+	if songName == 'perdition' or songName == 'perdition-apollyon' then
+		if curStep <= 390 or curStep >= 2050 and curStep <= 2144 or curStep >= 2690 and curStep <= 2804 then
+			if not inGameOver then
+				for i=0,getProperty('notes.length') do
+					strum = getPropertyFromGroup('notes',i,'strumTime')
+					woom = (strum-getSongPosition())
+					if wiggleamp > 0 then
+						woom = (strum-getSongPosition())/wigglefreq
+					end
+					setPropertyFromGroup('notes',i,'angle',wiggleamp *math.sin(woom))
+				end
+			end
+		end
+	end
+end
+
+function onEvent(n,v,b)
+	if n == 'WiggleNotes' then
+		wigglefreq = tonumber(v)
+		wiggleamp = tonumber(b)
+	end
+end
