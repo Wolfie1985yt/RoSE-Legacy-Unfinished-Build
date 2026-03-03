@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="transition.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="milk no0000" x="1100" y="3280" width="1080" height="1080"/>
+	<SubTexture name="milk falls0000" x="10" y="10" width="1080" height="1080"/>
+	<SubTexture name="milk falls0001" x="10" y="10" width="1080" height="1080"/>
+	<SubTexture name="milk falls0002" x="1100" y="10" width="1080" height="1080"/>
+	<SubTexture name="milk falls0003" x="1100" y="10" width="1080" height="1080"/>
+	<SubTexture name="milk falls0004" x="2190" y="10" width="1080" height="1080"/>
+	<SubTexture name="milk falls0005" x="2190" y="10" width="1080" height="1080"/>
+	<SubTexture name="milk falls0006" x="3280" y="10" width="1080" height="1080"/>
+	<SubTexture name="milk falls0007" x="3280" y="10" width="1080" height="1080"/>
+	<SubTexture name="milk falls0008" x="4370" y="10" width="1080" height="1080"/>
+	<SubTexture name="milk falls0009" x="4370" y="10" width="1080" height="1080"/>
+	<SubTexture name="milk falls0010" x="5460" y="10" width="1080" height="1080"/>
+	<SubTexture name="milk falls0011" x="5460" y="10" width="1080" height="1080"/>
+	<SubTexture name="milk falls0012" x="6550" y="10" width="1080" height="1080"/>
+	<SubTexture name="milk falls0013" x="6550" y="10" width="1080" height="1080"/>
+	<SubTexture name="milk falls0014" x="10" y="1100" width="1080" height="1080"/>
+	<SubTexture name="milk falls0015" x="10" y="1100" width="1080" height="1080"/>
+	<SubTexture name="milk falls0016" x="1100" y="1100" width="1080" height="1080"/>
+	<SubTexture name="milk falls0017" x="1100" y="1100" width="1080" height="1080"/>
+	<SubTexture name="milk falls0018" x="2190" y="1100" width="1080" height="1080"/>
+	<SubTexture name="milk falls0019" x="2190" y="1100" width="1080" height="1080"/>
+	<SubTexture name="milk falls0020" x="3280" y="1100" width="1080" height="1080"/>
+	<SubTexture name="milk falls0021" x="3280" y="1100" width="1080" height="1080"/>
+	<SubTexture name="milk falls0022" x="4370" y="1100" width="1080" height="1080"/>
+	<SubTexture name="milk falls0023" x="4370" y="1100" width="1080" height="1080"/>
+	<SubTexture name="milk go0000" x="5460" y="1100" width="1080" height="1080"/>
+	<SubTexture name="milk go0001" x="5460" y="1100" width="1080" height="1080"/>
+	<SubTexture name="milk go0002" x="6550" y="1100" width="1080" height="1080"/>
+	<SubTexture name="milk go0003" x="6550" y="1100" width="1080" height="1080"/>
+	<SubTexture name="milk go0004" x="10" y="2190" width="1080" height="1080"/>
+	<SubTexture name="milk go0005" x="1100" y="2190" width="1080" height="1080"/>
+	<SubTexture name="milk go0006" x="2190" y="2190" width="1080" height="1080"/>
+	<SubTexture name="milk go0007" x="3280" y="2190" width="1080" height="1080"/>
+	<SubTexture name="milk go0008" x="3280" y="2190" width="1080" height="1080"/>
+	<SubTexture name="milk go0009" x="4370" y="2190" width="1080" height="1080"/>
+	<SubTexture name="milk go0010" x="4370" y="2190" width="1080" height="1080"/>
+	<SubTexture name="milk go0011" x="5460" y="2190" width="1080" height="1080"/>
+	<SubTexture name="milk go0012" x="5460" y="2190" width="1080" height="1080"/>
+	<SubTexture name="milk go0013" x="6550" y="2190" width="1080" height="1080"/>
+	<SubTexture name="milk go0014" x="6550" y="2190" width="1080" height="1080"/>
+	<SubTexture name="milk go0015" x="10" y="3280" width="1080" height="1080"/>
+	<SubTexture name="milk go0016" x="10" y="3280" width="1080" height="1080"/>
+	<SubTexture name="milk go0017" x="1100" y="3280" width="1080" height="1080"/>
+	<SubTexture name="milk go0018" x="1100" y="3280" width="1080" height="1080"/>
+	<SubTexture name="milk go0019" x="1100" y="3280" width="1080" height="1080"/>
+	<SubTexture name="milk go0020" x="1100" y="3280" width="1080" height="1080"/>
+	<SubTexture name="milk go0021" x="1100" y="3280" width="1080" height="1080"/>
+	<SubTexture name="milk static0000" x="4370" y="1100" width="1080" height="1080"/>
+</TextureAtlas>

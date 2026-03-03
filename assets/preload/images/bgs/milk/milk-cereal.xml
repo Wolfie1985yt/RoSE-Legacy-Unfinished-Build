@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="milk-cereal.png">
+<SubTexture name="idle0000" x="834" y="0" width="877" height="871" frameX="-96" frameY="-159" frameWidth="1450" frameHeight="1186" />
+<SubTexture name="idle0001" x="0" y="0" width="834" height="969" frameX="-323" frameY="-53" frameWidth="1450" frameHeight="1186" />
+<SubTexture name="idle0002" x="1711" y="0" width="1063" height="699" frameX="-196" frameY="-246" frameWidth="1450" frameHeight="1186" />
+<SubTexture name="idle0003" x="0" y="969" width="890" height="734" frameX="-316" frameY="-273" frameWidth="1450" frameHeight="1186" />
+</TextureAtlas>

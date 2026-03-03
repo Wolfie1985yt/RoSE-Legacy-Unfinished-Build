@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Story mode selection.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Faker0000" x="0" y="724" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="Selected0000" x="0" y="1448" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="Selected0001" x="0" y="1448" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="Selected0002" x="0" y="0" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="Selected0003" x="0" y="0" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="Selected0004" x="1284" y="1448" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="Selected0005" x="1284" y="1448" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="Selected0006" x="1284" y="0" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="Selected0007" x="1284" y="724" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>

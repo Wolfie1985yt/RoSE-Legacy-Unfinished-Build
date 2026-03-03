@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="overworld.png">
+<SubTexture name="watershit0000" x="0" y="0" width="972" height="596" frameX="0" frameY="0" frameWidth="952" frameHeight="576" />
+<SubTexture name="watershit0001" x="972" y="0" width="972" height="596" frameX="0" frameY="0" frameWidth="952" frameHeight="576" />
+<SubTexture name="watershit0002" x="0" y="596" width="972" height="596" frameX="0" frameY="0" frameWidth="952" frameHeight="576" />
+<SubTexture name="watershit0003" x="972" y="596" width="972" height="596" frameX="0" frameY="0" frameWidth="952" frameHeight="576" />
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Censor Eggface.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Censored Eggy0000" x="391" y="212" width="391" height="191" frameX="-1915" frameY="-951" frameWidth="2385" frameHeight="1341"/>
+	<SubTexture name="Censored Eggy0001" x="0" y="0" width="401" height="212" frameX="-1905" frameY="-921" frameWidth="2385" frameHeight="1341"/>
+	<SubTexture name="Censored Eggy0002" x="401" y="0" width="400" height="203" frameX="-1906" frameY="-910" frameWidth="2385" frameHeight="1341"/>
+	<SubTexture name="Censored Eggy0003" x="0" y="212" width="391" height="202" frameX="-1915" frameY="-927" frameWidth="2385" frameHeight="1341"/>
+</TextureAtlas>

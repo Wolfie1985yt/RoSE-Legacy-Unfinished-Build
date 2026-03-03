@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pixel_gf.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Pixel gf dance0000" x="153" y="137" width="75" height="67" frameX="-6" frameY="-18" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Pixel gf dance0001" x="153" y="137" width="75" height="67" frameX="-6" frameY="-18" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Pixel gf dance0002" x="0" y="204" width="76" height="66" frameX="-5" frameY="-19" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Pixel gf dance0003" x="0" y="204" width="76" height="66" frameX="-5" frameY="-19" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Pixel gf dance0004" x="77" y="0" width="78" height="68" frameX="-5" frameY="-17" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Pixel gf dance0005" x="77" y="0" width="78" height="68" frameX="-5" frameY="-17" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Pixel gf dance0006" x="155" y="68" width="75" height="69" frameX="-6" frameY="-16" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Pixel gf dance0007" x="155" y="68" width="75" height="69" frameX="-6" frameY="-16" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Pixel gf dance0008" x="78" y="137" width="75" height="67" frameX="-6" frameY="-18" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Pixel gf dance0009" x="78" y="137" width="75" height="67" frameX="-6" frameY="-18" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Pixel gf dance0010" x="78" y="137" width="75" height="67" frameX="-6" frameY="-18" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Pixel gf dance0011" x="77" y="69" width="77" height="68" frameX="-5" frameY="-17" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Pixel gf dance0012" x="77" y="69" width="77" height="68" frameX="-5" frameY="-17" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Pixel gf dance0013" x="0" y="0" width="77" height="69" frameX="-5" frameY="-16" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Pixel gf dance0014" x="0" y="0" width="77" height="69" frameX="-5" frameY="-16" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Pixel gf dance0015" x="0" y="69" width="77" height="68" frameX="-5" frameY="-17" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Pixel gf dance0016" x="0" y="69" width="77" height="68" frameX="-5" frameY="-17" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Pixel gf dance0017" x="155" y="68" width="75" height="69" frameX="-6" frameY="-16" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Pixel gf dance0018" x="155" y="68" width="75" height="69" frameX="-6" frameY="-16" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Pixel gf dance0019" x="78" y="137" width="75" height="67" frameX="-6" frameY="-18" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Pixel gf dance0020" x="78" y="137" width="75" height="67" frameX="-6" frameY="-18" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Pixel gf dance0021" x="78" y="137" width="75" height="67" frameX="-6" frameY="-18" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Miss0000" x="155" y="0" width="77" height="68" frameX="-5" frameY="-17" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Miss0001" x="155" y="0" width="77" height="68" frameX="-5" frameY="-17" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Miss0002" x="0" y="137" width="78" height="67" frameX="-5" frameY="-18" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Miss0003" x="232" y="0" width="75" height="67" frameX="-6" frameY="-18" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Miss0004" x="232" y="67" width="75" height="67" frameX="-6" frameY="-18" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Miss0005" x="232" y="67" width="75" height="67" frameX="-6" frameY="-18" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Miss0006" x="232" y="67" width="75" height="67" frameX="-6" frameY="-18" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Miss0007" x="232" y="67" width="75" height="67" frameX="-6" frameY="-18" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Miss0008" x="232" y="67" width="75" height="67" frameX="-6" frameY="-18" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Miss0009" x="232" y="67" width="75" height="67" frameX="-6" frameY="-18" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Miss0010" x="232" y="67" width="75" height="67" frameX="-6" frameY="-18" frameWidth="88" frameHeight="87"/>
+	<SubTexture name="Miss0011" x="232" y="67" width="75" height="67" frameX="-6" frameY="-18" frameWidth="88" frameHeight="87"/>
+</TextureAtlas>

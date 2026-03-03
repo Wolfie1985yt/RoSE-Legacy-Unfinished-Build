@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sonic_alt.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Sonic_Alt0000" x="201" y="0" width="67" height="83" frameX="2" frameY="0" frameWidth="63" frameHeight="81"/>
+	<SubTexture name="Sonic_Alt0001" x="201" y="83" width="67" height="82" frameX="2" frameY="-1" frameWidth="63" frameHeight="81"/>
+	<SubTexture name="Sonic_Alt0002" x="0" y="169" width="67" height="82" frameX="2" frameY="-1" frameWidth="63" frameHeight="81"/>
+	<SubTexture name="Sonic_Alt0003" x="134" y="85" width="67" height="84" frameX="2" frameY="1" frameWidth="63" frameHeight="81"/>
+	<SubTexture name="Sonic_Alt0004" x="134" y="0" width="67" height="84" frameX="2" frameY="1" frameWidth="63" frameHeight="81"/>
+	<SubTexture name="Sonic_Alt0005" x="0" y="0" width="67" height="85" frameX="2" frameY="2" frameWidth="63" frameHeight="81"/>
+	<SubTexture name="Sonic_Alt0006" x="67" y="0" width="67" height="85" frameX="2" frameY="2" frameWidth="63" frameHeight="81"/>
+	<SubTexture name="Sonic_Alt0007" x="0" y="85" width="67" height="84" frameX="2" frameY="1" frameWidth="63" frameHeight="81"/>
+	<SubTexture name="Sonic_Alt0008" x="67" y="85" width="67" height="84" frameX="2" frameY="1" frameWidth="63" frameHeight="81"/>
+</TextureAtlas>

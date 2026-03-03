@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sl4sh_BF.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle 0000" x="0" y="0" width="72" height="64"/>
+	<SubTexture name="Idle 0001" x="72" y="0" width="72" height="64"/>
+	<SubTexture name="Idle 0002" x="144" y="0" width="72" height="64"/>
+	<SubTexture name="Idle 0003" x="216" y="0" width="72" height="64"/>
+	<SubTexture name="Idle 0004" x="288" y="0" width="72" height="64"/>
+	<SubTexture name="Scared 0000" x="360" y="0" width="72" height="64"/>
+	<SubTexture name="Hey 0000" x="432" y="0" width="72" height="64"/>
+	<SubTexture name="Hey 0001" x="0" y="64" width="72" height="64"/>
+	<SubTexture name="Down 0000" x="72" y="64" width="72" height="64"/>
+	<SubTexture name="Down 0001" x="144" y="64" width="72" height="64"/>
+	<SubTexture name="Down 0002" x="216" y="64" width="72" height="64"/>
+	<SubTexture name="Miss Down 0000" x="288" y="64" width="72" height="64"/>
+	<SubTexture name="Right 0000" x="360" y="64" width="72" height="64"/>
+	<SubTexture name="Right 0001" x="432" y="64" width="72" height="64"/>
+	<SubTexture name="Right 0002" x="0" y="128" width="72" height="64"/>
+	<SubTexture name="Miss Right 0000" x="72" y="128" width="72" height="64"/>
+	<SubTexture name="Up 0000" x="144" y="128" width="72" height="64"/>
+	<SubTexture name="Up 0001" x="216" y="128" width="72" height="64"/>
+	<SubTexture name="Up 0002" x="288" y="128" width="72" height="64"/>
+	<SubTexture name="Miss Up 0000" x="360" y="128" width="72" height="64"/>
+	<SubTexture name="Left 0000" x="432" y="128" width="72" height="64"/>
+	<SubTexture name="Left 0001" x="0" y="192" width="72" height="64"/>
+	<SubTexture name="Left 0002" x="72" y="192" width="72" height="64"/>
+	<SubTexture name="Miss Left0000" x="144" y="192" width="72" height="64"/>
+	<SubTexture name="Death 0000" x="216" y="192" width="72" height="64"/>
+	<SubTexture name="Death 0001" x="288" y="192" width="72" height="64"/>
+	<SubTexture name="Death 0002" x="360" y="192" width="72" height="64"/>
+	<SubTexture name="Death 0003" x="432" y="192" width="72" height="64"/>
+	<SubTexture name="Death 0004" x="0" y="256" width="72" height="64"/>
+	<SubTexture name="Death 0005" x="72" y="256" width="72" height="64"/>
+	<SubTexture name="Death 0006" x="144" y="256" width="72" height="64"/>
+	<SubTexture name="Death 0007" x="216" y="256" width="72" height="64"/>
+	<SubTexture name="Death 0008" x="288" y="256" width="72" height="64"/>
+	<SubTexture name="Death 0009" x="360" y="256" width="72" height="64"/>
+	<SubTexture name="Death 0010" x="432" y="256" width="72" height="64"/>
+	<SubTexture name="GameOver 0000" x="0" y="320" width="72" height="64"/>
+	<SubTexture name="GameOver 0001" x="72" y="320" width="72" height="64"/>
+	<SubTexture name="GameOver 0002" x="144" y="320" width="72" height="64"/>
+	<SubTexture name="GameOver 0003" x="216" y="320" width="72" height="64"/>
+	<SubTexture name="GameOver 0004" x="288" y="320" width="72" height="64"/>
+	<SubTexture name="GameOver 0005" x="360" y="320" width="72" height="64"/>
+	<SubTexture name="GameOver 0006" x="432" y="320" width="72" height="64"/>
+	<SubTexture name="Retry 0000" x="0" y="384" width="72" height="64"/>
+	<SubTexture name="Retry 0001" x="72" y="384" width="72" height="64"/>
+	<SubTexture name="Retry 0002" x="144" y="384" width="72" height="64"/>
+	<SubTexture name="Retry 0003" x="216" y="384" width="72" height="64"/>
+	<SubTexture name="Retry 0004" x="288" y="384" width="72" height="64"/>
+	<SubTexture name="Retry 0005" x="360" y="384" width="72" height="64"/>
+	<SubTexture name="Get Amogusd 0000" x="432" y="384" width="72" height="64"/>
+</TextureAtlas>

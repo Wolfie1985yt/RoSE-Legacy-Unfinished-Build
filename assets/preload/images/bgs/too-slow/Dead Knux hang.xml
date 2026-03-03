@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dead Knux hang.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Hanging Knux0000" x="139" y="0" width="138" height="514" frameX="-1898" frameY="-13" frameWidth="2385" frameHeight="1341"/>
+	<SubTexture name="Hanging Knux0001" x="0" y="0" width="139" height="514" frameX="-1898" frameY="-13" frameWidth="2385" frameHeight="1341"/>
+	<SubTexture name="Hanging Knux0002" x="139" y="0" width="138" height="514" frameX="-1898" frameY="-13" frameWidth="2385" frameHeight="1341"/>
+	<SubTexture name="Hanging Knux0003" x="277" y="0" width="137" height="514" frameX="-1897" frameY="-13" frameWidth="2385" frameHeight="1341"/>
+</TextureAtlas>

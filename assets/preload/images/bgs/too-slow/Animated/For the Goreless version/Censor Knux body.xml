@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Censor Knux body.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Censored Knuxies0000" x="780" y="0" width="204" height="529" frameX="-1852" frameY="2" frameWidth="2385" frameHeight="1341"/>
+	<SubTexture name="Censored Knuxies0001" x="0" y="514" width="235" height="520" frameX="-1869" frameY="-7" frameWidth="2385" frameHeight="1341"/>
+	<SubTexture name="Censored Knuxies0002" x="235" y="514" width="212" height="514" frameX="-1878" frameY="-13" frameWidth="2385" frameHeight="1341"/>
+	<SubTexture name="Censored Knuxies0003" x="0" y="0" width="284" height="514" frameX="-1785" frameY="-13" frameWidth="2385" frameHeight="1341"/>
+	<SubTexture name="Censored Knuxies0004" x="780" y="0" width="204" height="529" frameX="-1852" frameY="2" frameWidth="2385" frameHeight="1341"/>
+	<SubTexture name="Censored Knuxies0005" x="0" y="514" width="235" height="520" frameX="-1869" frameY="-7" frameWidth="2385" frameHeight="1341"/>
+	<SubTexture name="Censored Knuxies0006" x="568" y="0" width="212" height="514" frameX="-1878" frameY="-13" frameWidth="2385" frameHeight="1341"/>
+	<SubTexture name="Censored Knuxies0007" x="284" y="0" width="284" height="514" frameX="-1785" frameY="-13" frameWidth="2385" frameHeight="1341"/>
+</TextureAtlas>

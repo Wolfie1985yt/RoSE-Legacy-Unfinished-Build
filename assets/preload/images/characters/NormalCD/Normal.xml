@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NormalCP.png">
+	<!-- Created with Adobe Animate version 24.0.2.12 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Normal_DOWN0000" x="100" y="100" width="296" height="267" frameX="-1" frameY="-2" frameWidth="298" frameHeight="270"/>
+	<SubTexture name="Normal_DOWN0001" x="100" y="100" width="296" height="267" frameX="-1" frameY="-2" frameWidth="298" frameHeight="270"/>
+	<SubTexture name="Normal_DOWN0002" x="496" y="100" width="293" height="267" frameX="-3" frameY="-2" frameWidth="298" frameHeight="270"/>
+	<SubTexture name="Normal_DOWN0003" x="496" y="100" width="293" height="267" frameX="-3" frameY="-2" frameWidth="298" frameHeight="270"/>
+	<SubTexture name="Normal_DOWN0004" x="889" y="100" width="294" height="269" frameX="-3" frameY="0" frameWidth="298" frameHeight="270"/>
+	<SubTexture name="Normal_DOWN0005" x="889" y="100" width="294" height="269" frameX="-3" frameY="0" frameWidth="298" frameHeight="270"/>
+	<SubTexture name="Normal_DOWN0006" x="1283" y="100" width="298" height="269" frameX="0" frameY="-1" frameWidth="298" frameHeight="270"/>
+	<SubTexture name="Normal_DOWN0007" x="1283" y="100" width="298" height="269" frameX="0" frameY="-1" frameWidth="298" frameHeight="270"/>
+	<SubTexture name="Normal_IDLE0000" x="1681" y="100" width="246" height="296" frameX="0" frameY="-1" frameWidth="250" frameHeight="298"/>
+	<SubTexture name="Normal_IDLE0001" x="1681" y="100" width="246" height="296" frameX="0" frameY="-1" frameWidth="250" frameHeight="298"/>
+	<SubTexture name="Normal_IDLE0002" x="2027" y="100" width="239" height="291" frameX="-7" frameY="-6" frameWidth="250" frameHeight="298"/>
+	<SubTexture name="Normal_IDLE0003" x="2027" y="100" width="239" height="291" frameX="-7" frameY="-6" frameWidth="250" frameHeight="298"/>
+	<SubTexture name="Normal_IDLE0004" x="2366" y="100" width="238" height="291" frameX="-11" frameY="-7" frameWidth="250" frameHeight="298"/>
+	<SubTexture name="Normal_IDLE0005" x="2366" y="100" width="238" height="291" frameX="-11" frameY="-7" frameWidth="250" frameHeight="298"/>
+	<SubTexture name="Normal_IDLE0006" x="2704" y="100" width="242" height="294" frameX="-8" frameY="-4" frameWidth="250" frameHeight="298"/>
+	<SubTexture name="Normal_IDLE0007" x="2704" y="100" width="242" height="294" frameX="-8" frameY="-4" frameWidth="250" frameHeight="298"/>
+	<SubTexture name="Normal_IDLE0008" x="3046" y="100" width="246" height="297" frameX="-3" frameY="-1" frameWidth="250" frameHeight="298"/>
+	<SubTexture name="Normal_IDLE0009" x="3046" y="100" width="246" height="297" frameX="-3" frameY="-1" frameWidth="250" frameHeight="298"/>
+	<SubTexture name="Normal_IDLE0010" x="3392" y="100" width="246" height="298" frameX="-2" frameY="0" frameWidth="250" frameHeight="298"/>
+	<SubTexture name="Normal_IDLE0011" x="3392" y="100" width="246" height="298" frameX="-2" frameY="0" frameWidth="250" frameHeight="298"/>
+	<SubTexture name="Normal_IDLE0012" x="3738" y="100" width="246" height="298" frameX="-2" frameY="0" frameWidth="250" frameHeight="298"/>
+	<SubTexture name="Normal_IDLE0013" x="3738" y="100" width="246" height="298" frameX="-2" frameY="0" frameWidth="250" frameHeight="298"/>
+	<SubTexture name="Normal_IDLE0014" x="3738" y="100" width="246" height="298" frameX="-2" frameY="0" frameWidth="250" frameHeight="298"/>
+	<SubTexture name="Normal_IDLE0015" x="3738" y="100" width="246" height="298" frameX="-2" frameY="0" frameWidth="250" frameHeight="298"/>
+	<SubTexture name="Normal_LEFT0000" x="4084" y="100" width="326" height="316" frameX="-2" frameY="-2" frameWidth="333" frameHeight="318"/>
+	<SubTexture name="Normal_LEFT0001" x="4084" y="100" width="326" height="316" frameX="-2" frameY="-2" frameWidth="333" frameHeight="318"/>
+	<SubTexture name="Normal_LEFT0002" x="4510" y="100" width="327" height="315" frameX="0" frameY="-3" frameWidth="333" frameHeight="318"/>
+	<SubTexture name="Normal_LEFT0003" x="4510" y="100" width="327" height="315" frameX="0" frameY="-3" frameWidth="333" frameHeight="318"/>
+	<SubTexture name="Normal_LEFT0004" x="4937" y="100" width="323" height="316" frameX="-10" frameY="-2" frameWidth="333" frameHeight="318"/>
+	<SubTexture name="Normal_LEFT0005" x="4937" y="100" width="323" height="316" frameX="-10" frameY="-2" frameWidth="333" frameHeight="318"/>
+	<SubTexture name="Normal_LEFT0006" x="5360" y="100" width="320" height="318" frameX="-13" frameY="0" frameWidth="333" frameHeight="318"/>
+	<SubTexture name="Normal_LEFT0007" x="5360" y="100" width="320" height="318" frameX="-13" frameY="0" frameWidth="333" frameHeight="318"/>
+	<SubTexture name="Normal_RIGHT0000" x="5780" y="100" width="257" height="290" frameX="-9" frameY="-3" frameWidth="269" frameHeight="293"/>
+	<SubTexture name="Normal_RIGHT0001" x="5780" y="100" width="257" height="290" frameX="-9" frameY="-3" frameWidth="269" frameHeight="293"/>
+	<SubTexture name="Normal_RIGHT0002" x="6137" y="100" width="259" height="290" frameX="-10" frameY="-3" frameWidth="269" frameHeight="293"/>
+	<SubTexture name="Normal_RIGHT0003" x="6137" y="100" width="259" height="290" frameX="-10" frameY="-3" frameWidth="269" frameHeight="293"/>
+	<SubTexture name="Normal_RIGHT0004" x="6496" y="100" width="252" height="293" frameX="-4" frameY="0" frameWidth="269" frameHeight="293"/>
+	<SubTexture name="Normal_RIGHT0005" x="6496" y="100" width="252" height="293" frameX="-4" frameY="0" frameWidth="269" frameHeight="293"/>
+	<SubTexture name="Normal_RIGHT0006" x="6848" y="100" width="250" height="293" frameX="0" frameY="0" frameWidth="269" frameHeight="293"/>
+	<SubTexture name="Normal_RIGHT0007" x="6848" y="100" width="250" height="293" frameX="0" frameY="0" frameWidth="269" frameHeight="293"/>
+	<SubTexture name="Normal_UP0000" x="7198" y="100" width="225" height="362" frameX="-1" frameY="-2" frameWidth="231" frameHeight="364"/>
+	<SubTexture name="Normal_UP0001" x="7198" y="100" width="225" height="362" frameX="-1" frameY="-2" frameWidth="231" frameHeight="364"/>
+	<SubTexture name="Normal_UP0002" x="7523" y="100" width="227" height="364" frameX="0" frameY="0" frameWidth="231" frameHeight="364"/>
+	<SubTexture name="Normal_UP0003" x="7523" y="100" width="227" height="364" frameX="0" frameY="0" frameWidth="231" frameHeight="364"/>
+	<SubTexture name="Normal_UP0004" x="7850" y="100" width="228" height="358" frameX="-1" frameY="-6" frameWidth="231" frameHeight="364"/>
+	<SubTexture name="Normal_UP0005" x="7850" y="100" width="228" height="358" frameX="-1" frameY="-6" frameWidth="231" frameHeight="364"/>
+	<SubTexture name="Normal_UP0006" x="100" y="564" width="231" height="352" frameX="0" frameY="-12" frameWidth="231" frameHeight="364"/>
+	<SubTexture name="Normal_UP0007" x="100" y="564" width="231" height="352" frameX="0" frameY="-12" frameWidth="231" frameHeight="364"/>
+	<SubTexture name="d0000" x="431" y="564" width="246" height="296" frameX="-101" frameY="-20" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0001" x="431" y="564" width="246" height="296" frameX="-101" frameY="-20" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0002" x="777" y="564" width="197" height="276" frameX="-108" frameY="-40" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0003" x="1074" y="564" width="205" height="271" frameX="-126" frameY="-49" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0004" x="1379" y="564" width="223" height="289" frameX="-130" frameY="-31" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0005" x="1702" y="564" width="341" height="324" frameX="-151" frameY="0" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0006" x="2143" y="564" width="366" height="319" frameX="-158" frameY="-5" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0007" x="2143" y="564" width="366" height="319" frameX="-158" frameY="-5" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0008" x="2609" y="564" width="362" height="321" frameX="-156" frameY="-3" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0009" x="2609" y="564" width="362" height="321" frameX="-156" frameY="-3" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0010" x="2609" y="564" width="362" height="321" frameX="-156" frameY="-3" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0011" x="2609" y="564" width="362" height="321" frameX="-156" frameY="-3" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0012" x="3071" y="564" width="362" height="311" frameX="-98" frameY="-13" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0013" x="3071" y="564" width="362" height="311" frameX="-98" frameY="-13" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0014" x="3533" y="564" width="338" height="273" frameX="0" frameY="-44" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0015" x="3533" y="564" width="338" height="273" frameX="0" frameY="-44" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0016" x="3971" y="564" width="332" height="278" frameX="-9" frameY="-39" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0017" x="3971" y="564" width="332" height="278" frameX="-9" frameY="-39" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0018" x="4403" y="564" width="328" height="278" frameX="-13" frameY="-40" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0019" x="4403" y="564" width="328" height="278" frameX="-13" frameY="-40" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0020" x="4831" y="564" width="334" height="279" frameX="-9" frameY="-39" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0021" x="4831" y="564" width="334" height="279" frameX="-9" frameY="-39" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0022" x="4831" y="564" width="334" height="279" frameX="-9" frameY="-39" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0023" x="4831" y="564" width="334" height="279" frameX="-9" frameY="-39" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0024" x="4831" y="564" width="334" height="279" frameX="-9" frameY="-39" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0025" x="5265" y="564" width="302" height="278" frameX="-41" frameY="-40" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0026" x="5667" y="564" width="262" height="285" frameX="-89" frameY="-31" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0027" x="5667" y="564" width="262" height="285" frameX="-89" frameY="-31" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0028" x="431" y="564" width="246" height="296" frameX="-101" frameY="-20" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0029" x="431" y="564" width="246" height="296" frameX="-101" frameY="-20" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0030" x="431" y="564" width="246" height="296" frameX="-101" frameY="-20" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="d0031" x="431" y="564" width="246" height="296" frameX="-101" frameY="-20" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="dialogue0000" x="431" y="564" width="246" height="296" frameX="-3" frameY="-228" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="dialogue0001" x="431" y="564" width="246" height="296" frameX="-3" frameY="-228" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="dialogue0002" x="6029" y="564" width="226" height="283" frameX="0" frameY="-240" frameWidth="424" frameHeight="532"/>
+	<SubTexture name="dialogue0003" x="777" y="564" width="197" height="276" frameX="-10" frameY="-248" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="dialogue0004" x="6355" y="564" width="205" height="275" frameX="-27" frameY="-253" frameWidth="424" frameHeight="532"/>
+	<SubTexture name="dialogue0005" x="6355" y="564" width="205" height="275" frameX="-27" frameY="-253" frameWidth="424" frameHeight="532"/>
+	<SubTexture name="dialogue0006" x="1379" y="564" width="223" height="289" frameX="-32" frameY="-239" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="dialogue0007" x="6660" y="564" width="260" height="319" frameX="-64" frameY="-213" frameWidth="424" frameHeight="532"/>
+	<SubTexture name="dialogue0008" x="6660" y="564" width="260" height="319" frameX="-64" frameY="-213" frameWidth="424" frameHeight="532"/>
+	<SubTexture name="dialogue0009" x="7020" y="564" width="336" height="324" frameX="-57" frameY="-208" frameWidth="424" frameHeight="532"/>
+	<SubTexture name="dialogue0010" x="7020" y="564" width="336" height="324" frameX="-57" frameY="-208" frameWidth="424" frameHeight="532"/>
+	<SubTexture name="dialogue0011" x="7456" y="564" width="363" height="321" frameX="-57" frameY="-211" frameWidth="424" frameHeight="532"/>
+	<SubTexture name="dialogue0012" x="7456" y="564" width="363" height="321" frameX="-57" frameY="-211" frameWidth="424" frameHeight="532"/>
+	<SubTexture name="dialogue0013" x="7456" y="564" width="363" height="321" frameX="-57" frameY="-211" frameWidth="424" frameHeight="532"/>
+	<SubTexture name="dialogue0014" x="100" y="1016" width="363" height="530" frameX="-60" frameY="-2" frameWidth="424" frameHeight="532"/>
+	<SubTexture name="dialogue0015" x="100" y="1016" width="363" height="530" frameX="-60" frameY="-2" frameWidth="424" frameHeight="532"/>
+	<SubTexture name="dialogue0016" x="563" y="1016" width="367" height="532" frameX="-57" frameY="0" frameWidth="424" frameHeight="532"/>
+	<SubTexture name="dialogue0017" x="563" y="1016" width="367" height="532" frameX="-57" frameY="0" frameWidth="424" frameHeight="532"/>
+	<SubTexture name="dialogue0018" x="1030" y="1016" width="367" height="532" frameX="-57" frameY="0" frameWidth="424" frameHeight="532"/>
+	<SubTexture name="dialogue0019" x="1497" y="1016" width="365" height="532" frameX="-59" frameY="0" frameWidth="424" frameHeight="532"/>
+	<SubTexture name="dialogue0020" x="1497" y="1016" width="365" height="532" frameX="-59" frameY="0" frameWidth="424" frameHeight="532"/>
+	<SubTexture name="dialogue0021" x="1962" y="1016" width="264" height="315" frameX="-43" frameY="-217" frameWidth="424" frameHeight="532"/>
+	<SubTexture name="dialogue0022" x="1962" y="1016" width="264" height="315" frameX="-43" frameY="-217" frameWidth="424" frameHeight="532"/>
+	<SubTexture name="dialogue0023" x="2326" y="1016" width="249" height="290" frameX="-33" frameY="-234" frameWidth="424" frameHeight="532"/>
+	<SubTexture name="dialogue0024" x="2326" y="1016" width="249" height="290" frameX="-33" frameY="-234" frameWidth="424" frameHeight="532"/>
+	<SubTexture name="dialogue0025" x="431" y="564" width="246" height="296" frameX="-3" frameY="-228" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="dialogue0026" x="431" y="564" width="246" height="296" frameX="-3" frameY="-228" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="dialogue0027" x="431" y="564" width="246" height="296" frameX="-3" frameY="-228" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="dialogue0028" x="431" y="564" width="246" height="296" frameX="-3" frameY="-228" frameWidth="524" frameHeight="324"/>
+	<SubTexture name="treno copia0000" x="2675" y="1016" width="236" height="196" frameX="-334" frameY="-276" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0001" x="3011" y="1016" width="242" height="207" frameX="-424" frameY="-229" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0002" x="3353" y="1016" width="246" height="204" frameX="-418" frameY="-233" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0003" x="3353" y="1016" width="246" height="204" frameX="-418" frameY="-233" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0004" x="3699" y="1016" width="250" height="191" frameX="-411" frameY="-237" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0005" x="3699" y="1016" width="250" height="191" frameX="-411" frameY="-237" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0006" x="4049" y="1016" width="259" height="175" frameX="-388" frameY="-249" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0007" x="4049" y="1016" width="259" height="175" frameX="-388" frameY="-249" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0008" x="4408" y="1016" width="262" height="160" frameX="-381" frameY="-255" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0009" x="4408" y="1016" width="262" height="160" frameX="-381" frameY="-255" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0010" x="4770" y="1016" width="273" height="166" frameX="-339" frameY="-259" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0011" x="4770" y="1016" width="273" height="166" frameX="-339" frameY="-259" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0012" x="5143" y="1016" width="285" height="153" frameX="-243" frameY="-287" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0013" x="5143" y="1016" width="285" height="153" frameX="-243" frameY="-287" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0014" x="5528" y="1016" width="285" height="153" frameX="0" frameY="-352" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0015" x="5528" y="1016" width="285" height="153" frameX="0" frameY="-352" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0016" x="5528" y="1016" width="285" height="153" frameX="0" frameY="-352" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0017" x="5528" y="1016" width="285" height="153" frameX="0" frameY="-352" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0018" x="5528" y="1016" width="285" height="153" frameX="0" frameY="-352" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0019" x="5528" y="1016" width="285" height="153" frameX="0" frameY="-352" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0020" x="5528" y="1016" width="285" height="153" frameX="0" frameY="-352" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0021" x="5528" y="1016" width="285" height="153" frameX="0" frameY="-352" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0022" x="5913" y="1016" width="161" height="121" frameX="-537" frameY="-281" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0023" x="5913" y="1016" width="161" height="121" frameX="-537" frameY="-281" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0024" x="6174" y="1016" width="195" height="105" frameX="-704" frameY="-271" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0025" x="6174" y="1016" width="195" height="105" frameX="-704" frameY="-271" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0026" x="6469" y="1016" width="194" height="111" frameX="-811" frameY="-288" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0027" x="6763" y="1016" width="165" height="127" frameX="-972" frameY="-359" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0028" x="7028" y="1016" width="232" height="84" frameX="-1007" frameY="-456" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0029" x="7028" y="1016" width="232" height="84" frameX="-1007" frameY="-456" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0030" x="7360" y="1016" width="178" height="115" frameX="-1067" frameY="-424" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0031" x="7638" y="1016" width="112" height="190" frameX="-1090" frameY="-281" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0032" x="7850" y="1016" width="132" height="138" frameX="-1029" frameY="-157" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0033" x="7850" y="1016" width="132" height="138" frameX="-1029" frameY="-157" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0034" x="100" y="1648" width="169" height="113" frameX="-957" frameY="-92" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0035" x="369" y="1648" width="137" height="147" frameX="-919" frameY="-11" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0036" x="606" y="1648" width="184" height="160" frameX="-869" frameY="-16" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0037" x="606" y="1648" width="184" height="160" frameX="-869" frameY="-16" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0038" x="890" y="1648" width="186" height="195" frameX="-864" frameY="0" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0039" x="1176" y="1648" width="225" height="252" frameX="-809" frameY="-101" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0040" x="1501" y="1648" width="258" height="287" frameX="-777" frameY="-179" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0041" x="1859" y="1648" width="260" height="276" frameX="-777" frameY="-221" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0042" x="2219" y="1648" width="282" height="248" frameX="-772" frameY="-308" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0043" x="2219" y="1648" width="282" height="248" frameX="-772" frameY="-308" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0044" x="2601" y="1648" width="277" height="266" frameX="-774" frameY="-290" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0045" x="2601" y="1648" width="277" height="266" frameX="-774" frameY="-290" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0046" x="2978" y="1648" width="271" height="270" frameX="-778" frameY="-286" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0047" x="2978" y="1648" width="271" height="270" frameX="-778" frameY="-286" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0048" x="3349" y="1648" width="268" height="275" frameX="-780" frameY="-281" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0049" x="3349" y="1648" width="268" height="275" frameX="-780" frameY="-281" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0050" x="3717" y="1648" width="257" height="280" frameX="-782" frameY="-276" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0051" x="3717" y="1648" width="257" height="280" frameX="-782" frameY="-276" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0052" x="4074" y="1648" width="254" height="299" frameX="-782" frameY="-256" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0053" x="4074" y="1648" width="254" height="299" frameX="-782" frameY="-256" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0054" x="4428" y="1648" width="247" height="301" frameX="-786" frameY="-254" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0055" x="4428" y="1648" width="247" height="301" frameX="-786" frameY="-254" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0056" x="4775" y="1648" width="246" height="299" frameX="-786" frameY="-256" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0057" x="4775" y="1648" width="246" height="299" frameX="-786" frameY="-256" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0058" x="5121" y="1648" width="247" height="300" frameX="-785" frameY="-255" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0059" x="5121" y="1648" width="247" height="300" frameX="-785" frameY="-255" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0060" x="5468" y="1648" width="254" height="292" frameX="-782" frameY="-263" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0061" x="5468" y="1648" width="254" height="292" frameX="-782" frameY="-263" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0062" x="5822" y="1648" width="248" height="295" frameX="-782" frameY="-260" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0063" x="5822" y="1648" width="248" height="295" frameX="-782" frameY="-260" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0064" x="6170" y="1648" width="259" height="298" frameX="-779" frameY="-257" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0065" x="6170" y="1648" width="259" height="298" frameX="-779" frameY="-257" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0066" x="6529" y="1648" width="261" height="296" frameX="-777" frameY="-259" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0067" x="6529" y="1648" width="261" height="296" frameX="-777" frameY="-259" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0068" x="6890" y="1648" width="259" height="298" frameX="-780" frameY="-257" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0069" x="6890" y="1648" width="259" height="298" frameX="-780" frameY="-257" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0070" x="7249" y="1648" width="259" height="297" frameX="-780" frameY="-258" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0071" x="7249" y="1648" width="259" height="297" frameX="-780" frameY="-258" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0072" x="7608" y="1648" width="256" height="287" frameX="-781" frameY="-268" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0073" x="7608" y="1648" width="256" height="287" frameX="-781" frameY="-268" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0074" x="100" y="2049" width="268" height="304" frameX="-781" frameY="-251" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0075" x="100" y="2049" width="268" height="304" frameX="-781" frameY="-251" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0076" x="468" y="2049" width="267" height="306" frameX="-782" frameY="-249" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0077" x="835" y="2049" width="267" height="306" frameX="-782" frameY="-249" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0078" x="1202" y="2049" width="268" height="310" frameX="-782" frameY="-245" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0079" x="1202" y="2049" width="268" height="310" frameX="-782" frameY="-245" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0080" x="1570" y="2049" width="264" height="310" frameX="-782" frameY="-244" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0081" x="1570" y="2049" width="264" height="310" frameX="-782" frameY="-244" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0082" x="1934" y="2049" width="255" height="305" frameX="-785" frameY="-250" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0083" x="1934" y="2049" width="255" height="305" frameX="-785" frameY="-250" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0084" x="2289" y="2049" width="257" height="289" frameX="-785" frameY="-266" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0085" x="2646" y="2049" width="257" height="289" frameX="-785" frameY="-266" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0086" x="3003" y="2049" width="255" height="291" frameX="-785" frameY="-264" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0087" x="3358" y="2049" width="255" height="291" frameX="-785" frameY="-264" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0088" x="3713" y="2049" width="255" height="290" frameX="-784" frameY="-265" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0089" x="4068" y="2049" width="255" height="290" frameX="-784" frameY="-265" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0090" x="4423" y="2049" width="254" height="294" frameX="-785" frameY="-261" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0091" x="4777" y="2049" width="254" height="294" frameX="-785" frameY="-261" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0092" x="5131" y="2049" width="253" height="294" frameX="-785" frameY="-261" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0093" x="5484" y="2049" width="253" height="294" frameX="-785" frameY="-261" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0094" x="5837" y="2049" width="254" height="295" frameX="-785" frameY="-260" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0095" x="6191" y="2049" width="254" height="295" frameX="-785" frameY="-260" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0096" x="6545" y="2049" width="255" height="284" frameX="-781" frameY="-271" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0097" x="6900" y="2049" width="255" height="284" frameX="-781" frameY="-271" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0098" x="7255" y="2049" width="255" height="286" frameX="-781" frameY="-270" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0099" x="7610" y="2049" width="255" height="286" frameX="-781" frameY="-270" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0100" x="100" y="2459" width="256" height="282" frameX="-779" frameY="-273" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0101" x="456" y="2459" width="256" height="282" frameX="-779" frameY="-273" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0102" x="812" y="2459" width="254" height="283" frameX="-779" frameY="-272" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0103" x="1166" y="2459" width="254" height="283" frameX="-779" frameY="-272" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0104" x="1520" y="2459" width="252" height="287" frameX="-779" frameY="-268" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0105" x="1872" y="2459" width="252" height="287" frameX="-779" frameY="-268" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0106" x="2224" y="2459" width="254" height="285" frameX="-779" frameY="-266" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0107" x="2578" y="2459" width="254" height="285" frameX="-779" frameY="-266" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0108" x="2932" y="2459" width="249" height="293" frameX="-779" frameY="-236" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0109" x="3281" y="2459" width="232" height="292" frameX="-786" frameY="-235" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0110" x="3613" y="2459" width="324" height="298" frameX="-711" frameY="-225" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0111" x="4037" y="2459" width="329" height="304" frameX="-709" frameY="-219" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0112" x="4466" y="2459" width="291" height="305" frameX="-738" frameY="-218" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0113" x="4857" y="2459" width="291" height="304" frameX="-735" frameY="-219" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0114" x="5248" y="2459" width="298" height="296" frameX="-731" frameY="-227" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0115" x="5248" y="2459" width="298" height="296" frameX="-731" frameY="-227" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0116" x="5646" y="2459" width="299" height="298" frameX="-731" frameY="-225" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0117" x="5646" y="2459" width="299" height="298" frameX="-731" frameY="-225" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0118" x="6045" y="2459" width="299" height="297" frameX="-732" frameY="-226" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0119" x="6045" y="2459" width="299" height="297" frameX="-732" frameY="-226" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0120" x="6444" y="2459" width="298" height="297" frameX="-733" frameY="-226" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0121" x="6444" y="2459" width="298" height="297" frameX="-733" frameY="-226" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0122" x="6842" y="2459" width="296" height="298" frameX="-734" frameY="-225" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0123" x="6842" y="2459" width="296" height="298" frameX="-734" frameY="-225" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0124" x="7238" y="2459" width="296" height="299" frameX="-734" frameY="-224" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0125" x="7238" y="2459" width="296" height="299" frameX="-734" frameY="-224" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0126" x="7634" y="2459" width="297" height="299" frameX="-733" frameY="-224" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0127" x="7634" y="2459" width="297" height="299" frameX="-733" frameY="-224" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0128" x="100" y="2864" width="292" height="296" frameX="-739" frameY="-227" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0129" x="100" y="2864" width="292" height="296" frameX="-739" frameY="-227" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0130" x="492" y="2864" width="291" height="292" frameX="-742" frameY="-230" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0131" x="492" y="2864" width="291" height="292" frameX="-742" frameY="-230" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0132" x="883" y="2864" width="285" height="290" frameX="-747" frameY="-232" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0133" x="1268" y="2864" width="217" height="293" frameX="-772" frameY="-233" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0134" x="1585" y="2864" width="202" height="300" frameX="-766" frameY="-236" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0135" x="1887" y="2864" width="202" height="300" frameX="-766" frameY="-236" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0136" x="2189" y="2864" width="205" height="299" frameX="-762" frameY="-238" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0137" x="2494" y="2864" width="205" height="299" frameX="-762" frameY="-238" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0138" x="2799" y="2864" width="208" height="298" frameX="-759" frameY="-240" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0139" x="3107" y="2864" width="208" height="298" frameX="-759" frameY="-240" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0140" x="3415" y="2864" width="201" height="304" frameX="-762" frameY="-234" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0141" x="3716" y="2864" width="201" height="304" frameX="-762" frameY="-234" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0142" x="4017" y="2864" width="311" height="327" frameX="-735" frameY="-201" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0143" x="4017" y="2864" width="311" height="327" frameX="-735" frameY="-201" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0144" x="4428" y="2864" width="306" height="332" frameX="-734" frameY="-196" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0145" x="4428" y="2864" width="306" height="332" frameX="-734" frameY="-196" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0146" x="4834" y="2864" width="294" height="337" frameX="-744" frameY="-191" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0147" x="5228" y="2864" width="294" height="337" frameX="-744" frameY="-191" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0148" x="5622" y="2864" width="294" height="337" frameX="-742" frameY="-191" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0149" x="6016" y="2864" width="294" height="337" frameX="-742" frameY="-191" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0150" x="6410" y="2864" width="303" height="325" frameX="-741" frameY="-203" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0151" x="6410" y="2864" width="303" height="325" frameX="-741" frameY="-203" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0152" x="6813" y="2864" width="312" height="318" frameX="-737" frameY="-210" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0153" x="7225" y="2864" width="312" height="318" frameX="-737" frameY="-210" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0154" x="7637" y="2864" width="307" height="314" frameX="-739" frameY="-214" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0155" x="100" y="3301" width="307" height="314" frameX="-739" frameY="-214" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0156" x="507" y="3301" width="290" height="312" frameX="-748" frameY="-216" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0157" x="897" y="3301" width="290" height="312" frameX="-748" frameY="-216" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0158" x="1287" y="3301" width="255" height="291" frameX="-758" frameY="-230" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0159" x="1287" y="3301" width="255" height="291" frameX="-758" frameY="-230" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0160" x="1642" y="3301" width="259" height="292" frameX="-765" frameY="-229" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0161" x="1642" y="3301" width="259" height="292" frameX="-765" frameY="-229" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0162" x="2001" y="3301" width="247" height="294" frameX="-777" frameY="-227" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0163" x="2001" y="3301" width="247" height="294" frameX="-777" frameY="-227" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0164" x="2348" y="3301" width="254" height="299" frameX="-773" frameY="-222" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0165" x="2348" y="3301" width="254" height="299" frameX="-773" frameY="-222" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0166" x="2348" y="3301" width="254" height="299" frameX="-773" frameY="-222" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0167" x="2348" y="3301" width="254" height="299" frameX="-773" frameY="-222" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0168" x="2348" y="3301" width="254" height="299" frameX="-773" frameY="-222" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0169" x="5913" y="1016" width="161" height="121" frameX="-537" frameY="-281" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0170" x="5913" y="1016" width="161" height="121" frameX="-537" frameY="-281" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0171" x="6174" y="1016" width="195" height="105" frameX="-704" frameY="-271" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0172" x="6174" y="1016" width="195" height="105" frameX="-704" frameY="-271" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0173" x="6469" y="1016" width="194" height="111" frameX="-811" frameY="-288" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0174" x="6763" y="1016" width="165" height="127" frameX="-972" frameY="-359" frameWidth="1245" frameHeight="556"/>
+	<SubTexture name="treno copia0175" x="7028" y="1016" width="232" height="84" frameX="-1007" frameY="-456" frameWidth="1245" frameHeight="556"/>
+</TextureAtlas>

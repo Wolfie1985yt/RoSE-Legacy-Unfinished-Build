@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Curse_water_Sunset.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Water S0000" x="0" y="708" width="2389" height="708" frameX="2" frameY="-635" frameWidth="2385" frameHeight="1341"/>
+	<SubTexture name="Water S0001" x="0" y="708" width="2389" height="708" frameX="2" frameY="-635" frameWidth="2385" frameHeight="1341"/>
+	<SubTexture name="Water S0002" x="0" y="1416" width="2389" height="708" frameX="2" frameY="-635" frameWidth="2385" frameHeight="1341"/>
+	<SubTexture name="Water S0003" x="0" y="1416" width="2389" height="708" frameX="2" frameY="-635" frameWidth="2385" frameHeight="1341"/>
+	<SubTexture name="Water S0004" x="0" y="0" width="2389" height="708" frameX="2" frameY="-635" frameWidth="2385" frameHeight="1341"/>
+	<SubTexture name="Water S0005" x="0" y="0" width="2389" height="708" frameX="2" frameY="-635" frameWidth="2385" frameHeight="1341"/>
+	<SubTexture name="Water S0006" x="0" y="1416" width="2389" height="708" frameX="2" frameY="-635" frameWidth="2385" frameHeight="1341"/>
+	<SubTexture name="Water S0007" x="0" y="1416" width="2389" height="708" frameX="2" frameY="-635" frameWidth="2385" frameHeight="1341"/>
+</TextureAtlas>

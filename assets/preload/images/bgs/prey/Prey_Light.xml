@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Prey_Light.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Silent0000" x="0" y="0" width="4632" height="504" frameX="2" frameY="2" frameWidth="4608" frameHeight="480"/>
+	<SubTexture name="Active (hold the last one)0000" x="0" y="504" width="4632" height="504" frameX="2" frameY="2" frameWidth="4608" frameHeight="480"/>
+	<SubTexture name="Active (hold the last one)0001" x="0" y="1512" width="4632" height="504" frameX="2" frameY="2" frameWidth="4608" frameHeight="480"/>
+	<SubTexture name="Active (hold the last one)0002" x="0" y="1008" width="4632" height="504" frameX="2" frameY="2" frameWidth="4608" frameHeight="480"/>
+</TextureAtlas>

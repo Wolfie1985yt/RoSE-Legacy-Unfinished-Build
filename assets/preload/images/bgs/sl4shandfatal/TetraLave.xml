@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TetraLave.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Lava0000" x="0" y="51" width="725" height="51" frameX="2" frameY="-342" frameWidth="721" frameHeight="391"/>
+	<SubTexture name="Lava0001" x="0" y="102" width="725" height="51" frameX="2" frameY="-342" frameWidth="721" frameHeight="391"/>
+	<SubTexture name="Lava0002" x="0" y="0" width="725" height="51" frameX="2" frameY="-342" frameWidth="721" frameHeight="391"/>
+</TextureAtlas>

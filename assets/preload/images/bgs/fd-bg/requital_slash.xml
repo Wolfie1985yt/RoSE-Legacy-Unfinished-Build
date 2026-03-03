@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="requital_slash.png">
+<SubTexture name="requital_slash idle0000" x="2821" y="1040" width="312" height="383" frameX="-144" frameY="-154" frameWidth="2035" frameHeight="1296" />
+<SubTexture name="requital_slash idle0001" x="0" y="1040" width="945" height="695" frameX="-153" frameY="-157" frameWidth="2035" frameHeight="1296" />
+<SubTexture name="requital_slash idle0002" x="0" y="0" width="1613" height="1040" frameX="-122" frameY="-134" frameWidth="2035" frameHeight="1296" />
+<SubTexture name="requital_slash idle0003" x="0" y="0" width="1613" height="1040" frameX="-122" frameY="-134" frameWidth="2035" frameHeight="1296" />
+<SubTexture name="requital_slash idle0004" x="1613" y="0" width="1582" height="825" frameX="-318" frameY="-305" frameWidth="2035" frameHeight="1296" />
+<SubTexture name="requital_slash idle0005" x="945" y="1040" width="1237" height="566" frameX="-702" frameY="-545" frameWidth="2035" frameHeight="1296" />
+<SubTexture name="requital_slash idle0006" x="2182" y="1040" width="639" height="479" frameX="-1299" frameY="-627" frameWidth="2035" frameHeight="1296" />
+<SubTexture name="requital_slash idle0007" x="0" y="1735" width="276" height="224" frameX="-1595" frameY="-756" frameWidth="2035" frameHeight="1296" />
+<SubTexture name="requital_slash idle0008" x="1613" y="825" width="160" height="85" frameX="-1651" frameY="-823" frameWidth="2035" frameHeight="1296" />
+</TextureAtlas>

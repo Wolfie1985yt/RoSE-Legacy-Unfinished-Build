@@ -1,0 +1,1160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="running_sonic_sheet.png">
+<SubTexture name="dialogue peelout0000" x="44" y="594" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0001" x="92" y="594" width="46" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0002" x="138" y="594" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0003" x="186" y="594" width="45" height="45" frameX="-34" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0004" x="231" y="594" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0005" x="279" y="594" width="46" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0006" x="325" y="594" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0007" x="373" y="594" width="45" height="45" frameX="-34" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0008" x="418" y="594" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0009" x="466" y="594" width="46" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0010" x="325" y="594" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0011" x="373" y="594" width="45" height="45" frameX="-34" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0012" x="418" y="594" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0013" x="466" y="594" width="46" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0014" x="325" y="594" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0015" x="373" y="594" width="45" height="45" frameX="-34" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0016" x="418" y="594" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0017" x="466" y="594" width="46" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0018" x="512" y="594" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0019" x="560" y="594" width="45" height="45" frameX="-34" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0020" x="605" y="594" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0021" x="671" y="0" width="46" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0022" x="0" y="640" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0023" x="671" y="45" width="45" height="45" frameX="-34" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0024" x="48" y="640" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0025" x="671" y="90" width="46" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0026" x="96" y="640" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0027" x="671" y="135" width="45" height="45" frameX="-34" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0028" x="144" y="640" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0029" x="671" y="180" width="46" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0030" x="192" y="640" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0031" x="671" y="225" width="45" height="45" frameX="-34" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0032" x="240" y="640" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0033" x="671" y="270" width="46" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0034" x="96" y="640" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0035" x="671" y="135" width="45" height="45" frameX="-34" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0036" x="240" y="640" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0037" x="671" y="90" width="46" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0038" x="288" y="640" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0039" x="671" y="315" width="45" height="45" frameX="-34" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0040" x="336" y="640" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0041" x="671" y="180" width="46" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0042" x="192" y="640" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0043" x="671" y="360" width="45" height="45" frameX="-34" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0044" x="384" y="640" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0045" x="671" y="405" width="46" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0046" x="432" y="640" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0047" x="671" y="450" width="45" height="45" frameX="-34" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0048" x="480" y="640" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0049" x="671" y="495" width="46" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0050" x="528" y="640" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0051" x="671" y="540" width="45" height="45" frameX="-34" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0052" x="576" y="640" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0053" x="671" y="585" width="46" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0054" x="624" y="640" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0055" x="672" y="640" width="45" height="45" frameX="-34" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0056" x="717" y="0" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0057" x="717" y="45" width="46" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0058" x="717" y="90" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0059" x="717" y="135" width="45" height="45" frameX="-34" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0060" x="717" y="180" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0061" x="717" y="225" width="46" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0062" x="717" y="270" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0063" x="717" y="315" width="45" height="45" frameX="-34" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0064" x="240" y="640" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0065" x="671" y="270" width="46" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0066" x="717" y="360" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0067" x="186" y="594" width="45" height="45" frameX="-34" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0068" x="717" y="405" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0069" x="717" y="450" width="46" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0070" x="512" y="594" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0071" x="560" y="594" width="45" height="45" frameX="-34" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0072" x="576" y="640" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0073" x="671" y="585" width="46" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0074" x="512" y="594" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0075" x="672" y="640" width="45" height="45" frameX="-34" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0076" x="717" y="495" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0077" x="671" y="0" width="46" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0078" x="717" y="540" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0079" x="717" y="585" width="45" height="45" frameX="-34" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0080" x="717" y="630" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0081" x="0" y="685" width="46" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="dialogue peelout0082" x="46" y="685" width="48" height="45" frameX="-33" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic down miss0000" x="207" y="819" width="49" height="40" frameX="-33" frameY="-52" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic down miss0001" x="845" y="210" width="49" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic down miss0002" x="256" y="819" width="49" height="40" frameX="-33" frameY="-52" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic down miss0003" x="845" y="251" width="48" height="41" frameX="-34" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic idle0000" x="845" y="292" width="49" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic idle0001" x="292" y="775" width="49" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic idle0002" x="845" y="333" width="49" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic idle0003" x="341" y="775" width="48" height="42" frameX="-34" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left miss0000" x="845" y="374" width="48" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left miss0001" x="389" y="775" width="47" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left miss0002" x="845" y="415" width="48" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left miss0003" x="436" y="775" width="47" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0000" x="845" y="456" width="49" height="41" frameX="-32" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0001" x="483" y="775" width="47" height="42" frameX="-32" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0002" x="845" y="497" width="48" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0003" x="530" y="775" width="47" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0004" x="845" y="538" width="48" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0005" x="577" y="775" width="47" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0006" x="845" y="497" width="48" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0007" x="530" y="775" width="47" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0008" x="845" y="538" width="48" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0009" x="577" y="775" width="47" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0010" x="845" y="497" width="48" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0011" x="530" y="775" width="47" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0012" x="845" y="538" width="48" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0013" x="577" y="775" width="47" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0014" x="845" y="497" width="48" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0015" x="530" y="775" width="47" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0016" x="845" y="538" width="48" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0017" x="577" y="775" width="47" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0018" x="845" y="497" width="48" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0019" x="530" y="775" width="47" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0020" x="845" y="538" width="48" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0021" x="577" y="775" width="47" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0022" x="845" y="497" width="48" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0023" x="530" y="775" width="47" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0024" x="845" y="538" width="48" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0025" x="577" y="775" width="47" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0026" x="845" y="497" width="48" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0027" x="530" y="775" width="47" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0028" x="845" y="538" width="48" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0029" x="577" y="775" width="47" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0030" x="845" y="497" width="48" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0031" x="530" y="775" width="47" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic right miss0000" x="845" y="579" width="50" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic right miss0001" x="624" y="775" width="50" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic right miss0002" x="845" y="620" width="50" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic right miss0003" x="674" y="775" width="49" height="42" frameX="-34" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0000" x="452" y="819" width="49" height="39" frameX="-33" frameY="-53" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0001" x="305" y="819" width="49" height="40" frameX="-33" frameY="-52" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0002" x="354" y="819" width="49" height="40" frameX="-33" frameY="-52" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0003" x="845" y="661" width="48" height="41" frameX="-34" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0004" x="403" y="819" width="49" height="40" frameX="-33" frameY="-52" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0005" x="845" y="702" width="49" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0006" x="354" y="819" width="49" height="40" frameX="-33" frameY="-52" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0007" x="845" y="661" width="48" height="41" frameX="-34" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0008" x="403" y="819" width="49" height="40" frameX="-33" frameY="-52" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0009" x="845" y="702" width="49" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0010" x="354" y="819" width="49" height="40" frameX="-33" frameY="-52" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0011" x="845" y="661" width="48" height="41" frameX="-34" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0012" x="403" y="819" width="49" height="40" frameX="-33" frameY="-52" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0013" x="845" y="702" width="49" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0014" x="354" y="819" width="49" height="40" frameX="-33" frameY="-52" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0015" x="845" y="661" width="48" height="41" frameX="-34" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0016" x="403" y="819" width="49" height="40" frameX="-33" frameY="-52" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0017" x="845" y="702" width="49" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0018" x="354" y="819" width="49" height="40" frameX="-33" frameY="-52" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0019" x="845" y="661" width="48" height="41" frameX="-34" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0020" x="403" y="819" width="49" height="40" frameX="-33" frameY="-52" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0021" x="845" y="702" width="49" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0022" x="354" y="819" width="49" height="40" frameX="-33" frameY="-52" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0023" x="845" y="661" width="48" height="41" frameX="-34" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0024" x="403" y="819" width="49" height="40" frameX="-33" frameY="-52" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0025" x="845" y="702" width="49" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0026" x="354" y="819" width="49" height="40" frameX="-33" frameY="-52" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0027" x="845" y="661" width="48" height="41" frameX="-34" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0028" x="403" y="819" width="49" height="40" frameX="-33" frameY="-52" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0029" x="845" y="702" width="49" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0030" x="354" y="819" width="49" height="40" frameX="-33" frameY="-52" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0031" x="845" y="661" width="48" height="41" frameX="-34" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0000" x="55" y="819" width="51" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0001" x="723" y="775" width="51" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0002" x="845" y="743" width="50" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0003" x="774" y="775" width="49" height="42" frameX="-34" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0004" x="106" y="819" width="50" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0005" x="845" y="0" width="50" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0006" x="845" y="743" width="50" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0007" x="774" y="775" width="49" height="42" frameX="-34" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0008" x="106" y="819" width="50" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0009" x="845" y="0" width="50" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0010" x="845" y="743" width="50" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0011" x="774" y="775" width="49" height="42" frameX="-34" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0012" x="106" y="819" width="50" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0013" x="845" y="0" width="50" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0014" x="845" y="743" width="50" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0015" x="774" y="775" width="49" height="42" frameX="-34" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0016" x="106" y="819" width="50" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0017" x="845" y="0" width="50" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0018" x="845" y="743" width="50" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0019" x="774" y="775" width="49" height="42" frameX="-34" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0020" x="106" y="819" width="50" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0021" x="845" y="0" width="50" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0022" x="845" y="743" width="50" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0023" x="774" y="775" width="49" height="42" frameX="-34" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0024" x="106" y="819" width="50" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0025" x="845" y="0" width="50" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0026" x="845" y="743" width="50" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0027" x="774" y="775" width="49" height="42" frameX="-34" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0028" x="106" y="819" width="50" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0029" x="845" y="0" width="50" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0030" x="845" y="743" width="50" height="41" frameX="-33" frameY="-51" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0031" x="774" y="775" width="49" height="42" frameX="-34" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0000" x="49" y="775" width="49" height="43" frameX="-33" frameY="-49" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0001" x="0" y="775" width="49" height="44" frameX="-33" frameY="-48" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0002" x="845" y="42" width="49" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0003" x="98" y="775" width="48" height="43" frameX="-34" frameY="-49" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0004" x="845" y="84" width="49" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0005" x="146" y="775" width="49" height="43" frameX="-33" frameY="-49" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0006" x="845" y="42" width="49" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0007" x="98" y="775" width="48" height="43" frameX="-34" frameY="-49" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0008" x="845" y="84" width="49" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0009" x="146" y="775" width="49" height="43" frameX="-33" frameY="-49" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0010" x="845" y="42" width="49" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0011" x="98" y="775" width="48" height="43" frameX="-34" frameY="-49" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0012" x="845" y="84" width="49" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0013" x="146" y="775" width="49" height="43" frameX="-33" frameY="-49" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0014" x="845" y="42" width="49" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0015" x="98" y="775" width="48" height="43" frameX="-34" frameY="-49" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0016" x="845" y="84" width="49" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0017" x="146" y="775" width="49" height="43" frameX="-33" frameY="-49" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0018" x="845" y="42" width="49" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0019" x="98" y="775" width="48" height="43" frameX="-34" frameY="-49" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0020" x="845" y="84" width="49" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0021" x="146" y="775" width="49" height="43" frameX="-33" frameY="-49" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0022" x="845" y="42" width="49" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0023" x="98" y="775" width="48" height="43" frameX="-34" frameY="-49" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0024" x="845" y="84" width="49" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0025" x="146" y="775" width="49" height="43" frameX="-33" frameY="-49" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0026" x="845" y="42" width="49" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0027" x="98" y="775" width="48" height="43" frameX="-34" frameY="-49" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0028" x="845" y="84" width="49" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0029" x="146" y="775" width="49" height="43" frameX="-33" frameY="-49" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0030" x="845" y="42" width="49" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0031" x="98" y="775" width="48" height="43" frameX="-34" frameY="-49" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic up miss0000" x="845" y="126" width="49" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic up miss0001" x="195" y="775" width="49" height="43" frameX="-33" frameY="-49" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic up miss0002" x="845" y="168" width="49" height="42" frameX="-33" frameY="-50" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic up miss0003" x="244" y="775" width="48" height="43" frameX="-34" frameY="-49" frameWidth="104" frameHeight="97" />
+<SubTexture name="Intro-10000" x="120" y="266" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10001" x="160" y="266" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10002" x="200" y="266" width="39" height="47" frameX="-1" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10003" x="239" y="266" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10004" x="279" y="266" width="39" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10005" x="266" y="96" width="38" height="47" frameX="-1" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10006" x="343" y="0" width="39" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10007" x="0" y="314" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10008" x="40" y="314" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10009" x="343" y="47" width="39" height="47" frameX="-1" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10010" x="80" y="314" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10011" x="78" y="73" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10012" x="117" y="73" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10013" x="0" y="122" width="38" height="48" frameX="-1" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10014" x="38" y="122" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10015" x="120" y="314" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10016" x="279" y="266" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10017" x="266" y="96" width="38" height="47" frameX="1" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10018" x="279" y="266" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10019" x="266" y="96" width="38" height="47" frameX="1" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10020" x="343" y="0" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10021" x="343" y="94" width="39" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10022" x="279" y="266" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10023" x="266" y="96" width="38" height="47" frameX="1" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10024" x="343" y="0" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10025" x="78" y="73" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10026" x="117" y="73" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10027" x="77" y="122" width="38" height="48" frameX="-1" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10028" x="115" y="122" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10029" x="120" y="314" width="40" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10030" x="279" y="266" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10031" x="266" y="96" width="38" height="47" frameX="1" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10032" x="279" y="266" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10033" x="189" y="0" width="38" height="48" frameX="-1" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10034" x="0" y="73" width="39" height="49" frameX="0" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10035" x="343" y="141" width="39" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10036" x="279" y="266" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10037" x="266" y="96" width="38" height="47" frameX="1" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10038" x="343" y="0" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10039" x="343" y="188" width="39" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10040" x="279" y="266" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10041" x="266" y="96" width="38" height="47" frameX="1" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10042" x="343" y="0" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10043" x="343" y="188" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10044" x="279" y="266" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10045" x="266" y="96" width="38" height="47" frameX="1" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10046" x="343" y="0" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10047" x="343" y="188" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10048" x="0" y="170" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10049" x="189" y="48" width="38" height="48" frameX="-1" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10050" x="39" y="170" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10051" x="78" y="170" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10052" x="117" y="73" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10053" x="77" y="122" width="38" height="48" frameX="1" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10054" x="117" y="170" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10055" x="120" y="314" width="40" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10056" x="160" y="314" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10057" x="343" y="235" width="39" height="47" frameX="-1" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10058" x="200" y="314" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10059" x="240" y="314" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10060" x="280" y="314" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10061" x="320" y="314" width="39" height="47" frameX="-1" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10062" x="382" y="0" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10063" x="382" y="47" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10064" x="382" y="94" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10065" x="200" y="266" width="39" height="47" frameX="1" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10066" x="382" y="141" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10067" x="120" y="266" width="40" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10068" x="382" y="94" width="40" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10069" x="200" y="266" width="39" height="47" frameX="1" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10070" x="382" y="141" width="40" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10071" x="120" y="266" width="40" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10072" x="382" y="94" width="40" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10073" x="200" y="266" width="39" height="47" frameX="1" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10074" x="382" y="141" width="40" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10075" x="120" y="266" width="40" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10076" x="382" y="94" width="40" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10077" x="200" y="266" width="39" height="47" frameX="1" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10078" x="382" y="188" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10079" x="382" y="235" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10080" x="382" y="282" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10081" x="200" y="266" width="39" height="47" frameX="1" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10082" x="0" y="361" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10083" x="156" y="170" width="40" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10084" x="40" y="361" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10085" x="80" y="361" width="39" height="47" frameX="-1" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10086" x="119" y="361" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10087" x="159" y="361" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10088" x="199" y="361" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10089" x="239" y="361" width="39" height="47" frameX="-1" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10090" x="278" y="361" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10091" x="318" y="361" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10092" x="358" y="361" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10093" x="422" y="0" width="39" height="47" frameX="-1" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10094" x="0" y="408" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10095" x="40" y="408" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10096" x="80" y="408" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10097" x="422" y="0" width="39" height="47" frameX="1" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10098" x="0" y="408" width="40" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10099" x="120" y="408" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10100" x="160" y="408" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10101" x="422" y="47" width="39" height="47" frameX="-1" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10102" x="200" y="408" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10103" x="78" y="73" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10104" x="227" y="0" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10105" x="227" y="48" width="38" height="48" frameX="-1" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10106" x="227" y="96" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10107" x="39" y="73" width="39" height="49" frameX="0" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10108" x="227" y="144" width="38" height="48" frameX="-1" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10109" x="0" y="218" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10110" x="39" y="218" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10111" x="78" y="218" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10112" x="189" y="96" width="38" height="48" frameX="-1" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10113" x="0" y="218" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10114" x="39" y="218" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10115" x="78" y="218" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10116" x="117" y="218" width="38" height="48" frameX="-1" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10117" x="155" y="218" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10118" x="194" y="218" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10119" x="78" y="218" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10120" x="266" y="0" width="38" height="48" frameX="-1" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10121" x="304" y="0" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10122" x="304" y="48" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10123" x="304" y="96" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10124" x="304" y="144" width="38" height="48" frameX="-1" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10125" x="304" y="0" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10126" x="304" y="48" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10127" x="304" y="96" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10128" x="304" y="192" width="38" height="48" frameX="-1" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10129" x="304" y="0" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10130" x="78" y="73" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10131" x="227" y="0" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10132" x="266" y="48" width="38" height="48" frameX="-1" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10133" x="227" y="96" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-10134" x="304" y="48" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="Intro-1 Idle0000" x="40" y="314" width="40" height="47" frameX="0" frameY="0" frameWidth="30" frameHeight="37" />
+<SubTexture name="Intro-1 Idle0001" x="422" y="94" width="39" height="47" frameX="-1" frameY="0" frameWidth="30" frameHeight="37" />
+<SubTexture name="Intro-1 Idle0002" x="80" y="314" width="40" height="47" frameX="0" frameY="0" frameWidth="30" frameHeight="37" />
+<SubTexture name="Intro-1 Idle0003" x="240" y="408" width="40" height="47" frameX="0" frameY="0" frameWidth="30" frameHeight="37" />
+<SubTexture name="dialogue 0000" x="628" y="230" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0001" x="300" y="455" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0002" x="628" y="275" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0003" x="341" y="455" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0004" x="628" y="320" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0005" x="382" y="455" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0006" x="628" y="365" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0007" x="423" y="455" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0008" x="628" y="410" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0009" x="464" y="455" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0010" x="628" y="455" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0011" x="505" y="0" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0012" x="628" y="500" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0013" x="505" y="46" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0014" x="628" y="545" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0015" x="505" y="92" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0016" x="94" y="685" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0017" x="505" y="138" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0018" x="135" y="685" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0019" x="505" y="184" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0020" x="175" y="685" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0021" x="505" y="230" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0022" x="216" y="685" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0023" x="505" y="276" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0024" x="256" y="685" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0025" x="505" y="322" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0026" x="297" y="685" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0027" x="505" y="368" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0028" x="337" y="685" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0029" x="505" y="414" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0030" x="378" y="685" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0031" x="546" y="0" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0032" x="418" y="685" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0033" x="546" y="46" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0034" x="459" y="685" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0035" x="546" y="92" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0036" x="499" y="685" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0037" x="546" y="138" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0038" x="540" y="685" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0039" x="546" y="184" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0040" x="580" y="685" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0041" x="546" y="230" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0042" x="621" y="685" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0043" x="546" y="276" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0044" x="661" y="685" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0045" x="0" y="502" width="72" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0046" x="702" y="685" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0047" x="546" y="322" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0048" x="765" y="0" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0049" x="546" y="368" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0050" x="765" y="45" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0051" x="546" y="414" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0052" x="765" y="90" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0053" x="72" y="502" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0054" x="702" y="685" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0055" x="113" y="502" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0056" x="765" y="135" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0057" x="154" y="502" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0058" x="765" y="180" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0059" x="195" y="502" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0060" x="765" y="225" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0061" x="236" y="502" width="57" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0062" x="765" y="270" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0063" x="293" y="502" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0064" x="765" y="315" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0065" x="334" y="502" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0066" x="0" y="730" width="63" height="45" frameX="-14" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0067" x="375" y="502" width="66" height="46" frameX="-11" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0068" x="765" y="360" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0069" x="441" y="502" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0070" x="765" y="405" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0071" x="482" y="502" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0072" x="765" y="450" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0073" x="523" y="502" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0074" x="765" y="495" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0075" x="587" y="0" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0076" x="765" y="540" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0077" x="587" y="46" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0078" x="765" y="585" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0079" x="587" y="92" width="41" height="46" frameX="-34" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0080" x="587" y="138" width="41" height="46" frameX="-34" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0081" x="587" y="184" width="41" height="46" frameX="-34" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0082" x="587" y="230" width="41" height="46" frameX="-34" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0083" x="587" y="276" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0084" x="587" y="322" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0085" x="587" y="368" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0086" x="587" y="414" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0087" x="587" y="460" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0088" x="0" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0089" x="587" y="368" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0090" x="587" y="414" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0091" x="587" y="460" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0092" x="0" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0093" x="587" y="368" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0094" x="587" y="414" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0095" x="587" y="460" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0096" x="0" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0097" x="587" y="368" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0098" x="587" y="414" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0099" x="0" y="266" width="79" height="48" frameX="-35" frameY="-45" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0100" x="114" y="0" width="75" height="50" frameX="0" frameY="-43" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0101" x="587" y="368" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0102" x="587" y="414" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0103" x="587" y="460" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0104" x="0" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0105" x="587" y="368" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0106" x="587" y="414" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0107" x="587" y="460" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0108" x="0" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0109" x="587" y="368" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0110" x="587" y="414" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0111" x="587" y="276" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0112" x="587" y="322" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0113" x="40" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0114" x="80" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0115" x="120" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0116" x="45" y="0" width="69" height="58" frameX="-35" frameY="-35" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0117" x="160" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0118" x="200" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0119" x="0" y="0" width="45" height="73" frameX="-30" frameY="-20" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0120" x="240" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0121" x="160" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0122" x="200" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0123" x="120" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0124" x="240" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0125" x="160" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0126" x="200" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0127" x="120" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0128" x="240" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0129" x="160" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0130" x="200" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0131" x="120" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0132" x="240" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0133" x="160" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0134" x="200" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0135" x="120" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0136" x="240" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0137" x="160" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0138" x="200" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0139" x="120" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0140" x="240" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0141" x="160" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0142" x="200" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0143" x="120" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0144" x="240" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0145" x="160" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0146" x="200" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0147" x="120" y="548" width="40" height="46" frameX="-35" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0148" x="280" y="548" width="41" height="46" frameX="-34" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0149" x="321" y="548" width="41" height="46" frameX="-34" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0150" x="362" y="548" width="41" height="46" frameX="-34" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0151" x="403" y="548" width="41" height="46" frameX="-34" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0152" x="765" y="630" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0153" x="444" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0154" x="765" y="675" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0155" x="485" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0156" x="765" y="630" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0157" x="444" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0158" x="765" y="675" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0159" x="485" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0160" x="765" y="630" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0161" x="444" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0162" x="765" y="675" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0163" x="485" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0164" x="765" y="630" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0165" x="444" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0166" x="765" y="675" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0167" x="485" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0168" x="765" y="630" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0169" x="444" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0170" x="765" y="675" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0171" x="485" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0172" x="765" y="630" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0173" x="444" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0174" x="765" y="675" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0175" x="485" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0176" x="765" y="630" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0177" x="444" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0178" x="765" y="675" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0179" x="485" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0180" x="765" y="630" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0181" x="444" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0182" x="765" y="675" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0183" x="485" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0184" x="765" y="630" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0185" x="444" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0186" x="765" y="675" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0187" x="485" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0188" x="765" y="630" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0189" x="444" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0190" x="765" y="675" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0191" x="485" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0192" x="765" y="630" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0193" x="444" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0194" x="765" y="675" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0195" x="485" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0196" x="765" y="630" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0197" x="444" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0198" x="765" y="675" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0199" x="485" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0200" x="765" y="630" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0201" x="444" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0202" x="765" y="675" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0203" x="485" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0204" x="765" y="630" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0205" x="444" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0206" x="765" y="675" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0207" x="485" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0208" x="765" y="630" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0209" x="444" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0210" x="765" y="675" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0211" x="485" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0212" x="765" y="630" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0213" x="444" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0214" x="765" y="675" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0215" x="485" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0216" x="765" y="630" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0217" x="444" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0218" x="765" y="675" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0219" x="485" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0220" x="765" y="630" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0221" x="444" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0222" x="765" y="675" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0223" x="485" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0224" x="765" y="630" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0225" x="444" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0226" x="765" y="675" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0227" x="485" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0228" x="765" y="630" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0229" x="444" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0230" x="765" y="675" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0231" x="485" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0232" x="765" y="630" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0233" x="444" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0234" x="765" y="675" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0235" x="485" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0236" x="765" y="630" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0237" x="444" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0238" x="765" y="675" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0239" x="485" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0240" x="765" y="630" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0241" x="444" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0242" x="765" y="675" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0243" x="485" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0244" x="280" y="408" width="41" height="47" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0245" x="79" y="266" width="41" height="48" frameX="-36" frameY="-46" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0246" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0247" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0248" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0249" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0250" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0251" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0252" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0253" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0254" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0255" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0256" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0257" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0258" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0259" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0260" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0261" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0262" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0263" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0264" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0265" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0266" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0267" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0268" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0269" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0270" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0271" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0272" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0273" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0274" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0275" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0276" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0277" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0278" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0279" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0280" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0281" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0282" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0283" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0284" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0285" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0286" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0287" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0288" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0289" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0290" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0291" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0292" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0293" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0294" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0295" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0296" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0297" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0298" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0299" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0300" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0301" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0302" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0303" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0304" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0305" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0306" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0307" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0308" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0309" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0310" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0311" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0312" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0313" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0314" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0315" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0316" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0317" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0318" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0319" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0320" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0321" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0322" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0323" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0324" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0325" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0326" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0327" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0328" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0329" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0330" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0331" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0332" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0333" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0334" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0335" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0336" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0337" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0338" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0339" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0340" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0341" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0342" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0343" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0344" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0345" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0346" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0347" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0348" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0349" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0350" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0351" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0352" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0353" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0354" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0355" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0356" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0357" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0358" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0359" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0360" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0361" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0362" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0363" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0364" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0365" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0366" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0367" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0368" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0369" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0370" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0371" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0372" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0373" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0374" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0375" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0376" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0377" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0378" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0379" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0380" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0381" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0382" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0383" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0384" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0385" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0386" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0387" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0388" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0389" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0390" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0391" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0392" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0393" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0394" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0395" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0396" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0397" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0398" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0399" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0400" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0401" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0402" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0403" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0404" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0405" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0406" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0407" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0408" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0409" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0410" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0411" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0412" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0413" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0414" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0415" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0416" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0417" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0418" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0419" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0420" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0421" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0422" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0423" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0424" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0425" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0426" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0427" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0428" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0429" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0430" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0431" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0432" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0433" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0434" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0435" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0436" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0437" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0438" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0439" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0440" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0441" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0442" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0443" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0444" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0445" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0446" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0447" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0448" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0449" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0450" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0451" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0452" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0453" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0454" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0455" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0456" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0457" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0458" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0459" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0460" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0461" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0462" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0463" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0464" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0465" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0466" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0467" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0468" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0469" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0470" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0471" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0472" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0473" x="63" y="730" width="40" height="45" frameX="-37" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0474" x="526" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0475" x="103" y="730" width="41" height="45" frameX="-36" frameY="-48" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0476" x="567" y="548" width="41" height="46" frameX="-36" frameY="-47" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0477" x="505" y="460" width="40" height="39" frameX="-33" frameY="-44" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0478" x="587" y="506" width="40" height="40" frameX="-31" frameY="-40" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0479" x="806" y="270" width="39" height="40" frameX="-30" frameY="-36" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0480" x="587" y="506" width="40" height="40" frameX="-27" frameY="-36" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0481" x="501" y="819" width="40" height="39" frameX="-26" frameY="-38" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0482" x="587" y="506" width="40" height="40" frameX="-22" frameY="-39" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0483" x="806" y="310" width="39" height="40" frameX="-20" frameY="-42" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0484" x="587" y="506" width="40" height="40" frameX="-17" frameY="-45" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0485" x="505" y="460" width="40" height="39" frameX="-15" frameY="-49" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0486" x="587" y="506" width="40" height="40" frameX="-14" frameY="-51" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0487" x="845" y="784" width="41" height="35" frameX="-14" frameY="-56" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0488" x="628" y="0" width="43" height="46" frameX="-12" frameY="-45" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0489" x="628" y="46" width="42" height="46" frameX="-11" frameY="-45" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0490" x="845" y="292" width="49" height="41" frameX="-13" frameY="-52" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0491" x="0" y="819" width="55" height="42" frameX="-19" frameY="-51" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0492" x="156" y="819" width="51" height="41" frameX="-26" frameY="-52" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0493" x="341" y="775" width="48" height="42" frameX="-33" frameY="-51" frameWidth="104" frameHeight="99" />
+<SubTexture name="dialogue 0494" x="845" y="292" width="49" height="41" frameX="-34" frameY="-52" frameWidth="104" frameHeight="99" />
+<SubTexture name="sonic down miss0004" x="321" y="408" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic down miss0005" x="365" y="408" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic down miss0006" x="409" y="408" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic down miss0007" x="461" y="0" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic idle0004" x="144" y="730" width="41" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic idle0005" x="628" y="92" width="41" height="46" frameX="-36" frameY="-46" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic idle0006" x="185" y="730" width="40" height="45" frameX="-37" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic idle0007" x="628" y="138" width="41" height="46" frameX="-36" frameY="-46" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left miss0004" x="461" y="47" width="39" height="47" frameX="-36" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left miss0005" x="461" y="94" width="39" height="47" frameX="-36" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left miss0006" x="461" y="141" width="38" height="47" frameX="-37" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left miss0007" x="461" y="188" width="39" height="47" frameX="-36" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0032" x="461" y="235" width="39" height="47" frameX="-36" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0033" x="461" y="282" width="39" height="47" frameX="-36" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0034" x="461" y="329" width="38" height="47" frameX="-37" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0035" x="461" y="376" width="39" height="47" frameX="-36" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0036" x="422" y="141" width="39" height="47" frameX="-36" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0037" x="422" y="188" width="39" height="47" frameX="-36" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0038" x="461" y="329" width="38" height="47" frameX="-37" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0039" x="461" y="376" width="39" height="47" frameX="-36" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0040" x="422" y="141" width="39" height="47" frameX="-36" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0041" x="422" y="188" width="39" height="47" frameX="-36" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0042" x="461" y="329" width="38" height="47" frameX="-37" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0043" x="461" y="376" width="39" height="47" frameX="-36" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0044" x="422" y="141" width="39" height="47" frameX="-36" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0045" x="422" y="188" width="39" height="47" frameX="-36" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0046" x="461" y="329" width="38" height="47" frameX="-37" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0047" x="461" y="376" width="39" height="47" frameX="-36" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0048" x="422" y="141" width="39" height="47" frameX="-36" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0049" x="422" y="188" width="39" height="47" frameX="-36" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0050" x="461" y="329" width="38" height="47" frameX="-37" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0051" x="461" y="376" width="39" height="47" frameX="-36" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0052" x="422" y="141" width="39" height="47" frameX="-36" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0053" x="422" y="188" width="39" height="47" frameX="-36" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0054" x="461" y="329" width="38" height="47" frameX="-37" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0055" x="461" y="376" width="39" height="47" frameX="-36" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0056" x="422" y="141" width="39" height="47" frameX="-36" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0057" x="422" y="188" width="39" height="47" frameX="-36" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0058" x="461" y="329" width="38" height="47" frameX="-37" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0059" x="461" y="376" width="39" height="47" frameX="-36" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0060" x="422" y="141" width="39" height="47" frameX="-36" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0061" x="422" y="188" width="39" height="47" frameX="-36" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0062" x="461" y="329" width="38" height="47" frameX="-37" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic left sing0063" x="461" y="376" width="39" height="47" frameX="-36" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic right miss0004" x="225" y="730" width="43" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic right miss0005" x="268" y="730" width="43" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic right miss0006" x="311" y="730" width="42" height="45" frameX="-37" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic right miss0007" x="353" y="730" width="43" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0032" x="628" y="184" width="42" height="46" frameX="-36" frameY="-46" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0033" x="0" y="594" width="44" height="46" frameX="-34" frameY="-46" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0034" x="0" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0035" x="44" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0036" x="88" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0037" x="132" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0038" x="176" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0039" x="44" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0040" x="88" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0041" x="132" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0042" x="176" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0043" x="44" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0044" x="88" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0045" x="132" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0046" x="176" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0047" x="44" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0048" x="88" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0049" x="132" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0050" x="176" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0051" x="44" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0052" x="88" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0053" x="132" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0054" x="176" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0055" x="44" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0056" x="88" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0057" x="132" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0058" x="176" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0059" x="44" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0060" x="88" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0061" x="132" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0062" x="176" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing down0063" x="44" y="455" width="44" height="47" frameX="-34" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0032" x="396" y="730" width="44" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0033" x="440" y="730" width="44" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0034" x="484" y="730" width="42" height="45" frameX="-37" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0035" x="526" y="730" width="43" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0036" x="569" y="730" width="43" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0037" x="612" y="730" width="43" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0038" x="655" y="730" width="42" height="45" frameX="-37" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0039" x="697" y="730" width="43" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0040" x="569" y="730" width="43" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0041" x="612" y="730" width="43" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0042" x="655" y="730" width="42" height="45" frameX="-37" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0043" x="697" y="730" width="43" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0044" x="569" y="730" width="43" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0045" x="612" y="730" width="43" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0046" x="655" y="730" width="42" height="45" frameX="-37" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0047" x="697" y="730" width="43" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0048" x="569" y="730" width="43" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0049" x="612" y="730" width="43" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0050" x="655" y="730" width="42" height="45" frameX="-37" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0051" x="697" y="730" width="43" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0052" x="569" y="730" width="43" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0053" x="612" y="730" width="43" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0054" x="655" y="730" width="42" height="45" frameX="-37" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0055" x="697" y="730" width="43" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0056" x="569" y="730" width="43" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0057" x="612" y="730" width="43" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0058" x="655" y="730" width="42" height="45" frameX="-37" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0059" x="697" y="730" width="43" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0060" x="569" y="730" width="43" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0061" x="612" y="730" width="43" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0062" x="655" y="730" width="42" height="45" frameX="-37" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing right0063" x="697" y="730" width="43" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0032" x="422" y="235" width="39" height="47" frameX="-36" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0033" x="422" y="282" width="39" height="47" frameX="-36" frameY="-45" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0034" x="266" y="143" width="38" height="45" frameX="-37" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0035" x="740" y="730" width="39" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0036" x="806" y="0" width="39" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0037" x="806" y="45" width="39" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0038" x="266" y="143" width="38" height="45" frameX="-37" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0039" x="740" y="730" width="39" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0040" x="806" y="0" width="39" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0041" x="806" y="45" width="39" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0042" x="266" y="143" width="38" height="45" frameX="-37" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0043" x="740" y="730" width="39" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0044" x="806" y="0" width="39" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0045" x="806" y="45" width="39" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0046" x="266" y="143" width="38" height="45" frameX="-37" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0047" x="740" y="730" width="39" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0048" x="806" y="0" width="39" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0049" x="806" y="45" width="39" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0050" x="266" y="143" width="38" height="45" frameX="-37" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0051" x="740" y="730" width="39" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0052" x="806" y="0" width="39" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0053" x="806" y="45" width="39" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0054" x="266" y="143" width="38" height="45" frameX="-37" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0055" x="740" y="730" width="39" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0056" x="806" y="0" width="39" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0057" x="806" y="45" width="39" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0058" x="266" y="143" width="38" height="45" frameX="-37" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0059" x="740" y="730" width="39" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0060" x="806" y="0" width="39" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0061" x="806" y="45" width="39" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0062" x="266" y="143" width="38" height="45" frameX="-37" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic sing up0063" x="740" y="730" width="39" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic up miss0004" x="806" y="90" width="39" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic up miss0005" x="806" y="135" width="39" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic up miss0006" x="806" y="180" width="38" height="45" frameX="-37" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="sonic up miss0007" x="806" y="225" width="39" height="45" frameX="-36" frameY="-47" frameWidth="104" frameHeight="97" />
+<SubTexture name="intro0000" x="120" y="266" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0001" x="160" y="266" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0002" x="200" y="266" width="39" height="47" frameX="-1" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0003" x="239" y="266" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0004" x="279" y="266" width="39" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0005" x="266" y="96" width="38" height="47" frameX="-1" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0006" x="343" y="0" width="39" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0007" x="0" y="314" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0008" x="40" y="314" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0009" x="343" y="47" width="39" height="47" frameX="-1" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0010" x="80" y="314" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0011" x="78" y="73" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0012" x="117" y="73" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0013" x="0" y="122" width="38" height="48" frameX="-1" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0014" x="38" y="122" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0015" x="120" y="314" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0016" x="279" y="266" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0017" x="266" y="96" width="38" height="47" frameX="1" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0018" x="279" y="266" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0019" x="266" y="96" width="38" height="47" frameX="1" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0020" x="343" y="0" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0021" x="422" y="329" width="39" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0022" x="279" y="266" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0023" x="266" y="96" width="38" height="47" frameX="1" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0024" x="343" y="0" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0025" x="78" y="73" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0026" x="117" y="73" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0027" x="77" y="122" width="38" height="48" frameX="-1" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0028" x="115" y="122" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0029" x="120" y="314" width="40" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0030" x="279" y="266" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0031" x="266" y="96" width="38" height="47" frameX="1" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0032" x="279" y="266" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0033" x="189" y="0" width="38" height="48" frameX="-1" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0034" x="0" y="73" width="39" height="49" frameX="0" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0035" x="343" y="141" width="39" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0036" x="279" y="266" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0037" x="266" y="96" width="38" height="47" frameX="1" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0038" x="343" y="0" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0039" x="343" y="188" width="39" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0040" x="279" y="266" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0041" x="266" y="96" width="38" height="47" frameX="1" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0042" x="343" y="0" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0043" x="343" y="188" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0044" x="279" y="266" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0045" x="266" y="96" width="38" height="47" frameX="1" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0046" x="343" y="0" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0047" x="343" y="188" width="39" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0048" x="0" y="170" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0049" x="189" y="48" width="38" height="48" frameX="-1" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0050" x="39" y="170" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0051" x="78" y="170" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0052" x="117" y="73" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0053" x="77" y="122" width="38" height="48" frameX="1" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0054" x="117" y="170" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0055" x="120" y="314" width="40" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0056" x="160" y="314" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0057" x="343" y="235" width="39" height="47" frameX="-1" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0058" x="200" y="314" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0059" x="240" y="314" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0060" x="280" y="314" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0061" x="320" y="314" width="39" height="47" frameX="-1" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0062" x="382" y="0" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0063" x="382" y="47" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0064" x="382" y="94" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0065" x="200" y="266" width="39" height="47" frameX="1" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0066" x="220" y="455" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0067" x="120" y="266" width="40" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0068" x="382" y="94" width="40" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0069" x="200" y="266" width="39" height="47" frameX="1" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0070" x="220" y="455" width="40" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0071" x="120" y="266" width="40" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0072" x="382" y="94" width="40" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0073" x="200" y="266" width="39" height="47" frameX="1" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0074" x="220" y="455" width="40" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0075" x="120" y="266" width="40" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0076" x="382" y="94" width="40" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0077" x="200" y="266" width="39" height="47" frameX="1" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0078" x="260" y="455" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0079" x="382" y="235" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0080" x="382" y="282" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0081" x="200" y="266" width="39" height="47" frameX="1" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0082" x="0" y="361" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0083" x="156" y="170" width="40" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0084" x="40" y="361" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0085" x="80" y="361" width="39" height="47" frameX="-1" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0086" x="119" y="361" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0087" x="159" y="361" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0088" x="199" y="361" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0089" x="239" y="361" width="39" height="47" frameX="-1" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0090" x="278" y="361" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0091" x="318" y="361" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0092" x="358" y="361" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0093" x="422" y="0" width="39" height="47" frameX="-1" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0094" x="0" y="408" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0095" x="40" y="408" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0096" x="80" y="408" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0097" x="422" y="0" width="39" height="47" frameX="1" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0098" x="0" y="408" width="40" height="47" frameX="2" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0099" x="120" y="408" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0100" x="160" y="408" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0101" x="422" y="47" width="39" height="47" frameX="-1" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0102" x="200" y="408" width="40" height="47" frameX="0" frameY="-2" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0103" x="78" y="73" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0104" x="227" y="0" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0105" x="227" y="48" width="38" height="48" frameX="-1" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0106" x="227" y="96" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0107" x="39" y="73" width="39" height="49" frameX="0" frameY="0" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0108" x="227" y="144" width="38" height="48" frameX="-1" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0109" x="0" y="218" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0110" x="39" y="218" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0111" x="78" y="218" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0112" x="189" y="96" width="38" height="48" frameX="-1" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0113" x="0" y="218" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0114" x="39" y="218" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0115" x="78" y="218" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0116" x="117" y="218" width="38" height="48" frameX="-1" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0117" x="155" y="218" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0118" x="194" y="218" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0119" x="78" y="218" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0120" x="266" y="0" width="38" height="48" frameX="-1" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0121" x="304" y="0" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0122" x="304" y="48" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0123" x="304" y="96" width="39" height="48" frameX="0" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0124" x="304" y="144" width="38" height="48" frameX="-1" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0125" x="304" y="0" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0126" x="304" y="48" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0127" x="304" y="96" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0128" x="304" y="192" width="38" height="48" frameX="-1" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0129" x="304" y="0" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0130" x="78" y="73" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0131" x="227" y="0" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0132" x="266" y="48" width="38" height="48" frameX="-1" frameY="-1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0133" x="227" y="96" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="intro0134" x="304" y="48" width="39" height="48" frameX="2" frameY="1" frameWidth="30" frameHeight="39" />
+<SubTexture name="idle-alt0000" x="40" y="314" width="40" height="47" frameX="0" frameY="0" frameWidth="30" frameHeight="37" />
+<SubTexture name="idle-alt0001" x="422" y="94" width="39" height="47" frameX="-1" frameY="0" frameWidth="30" frameHeight="37" />
+<SubTexture name="idle-alt0002" x="80" y="314" width="40" height="47" frameX="0" frameY="0" frameWidth="30" frameHeight="37" />
+<SubTexture name="idle-alt0003" x="240" y="408" width="40" height="47" frameX="0" frameY="0" frameWidth="30" frameHeight="37" />
+<SubTexture name="jump0000" x="546" y="460" width="40" height="40" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="jump0001" x="806" y="350" width="39" height="40" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="jump0002" x="541" y="819" width="40" height="39" frameX="0" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="jump0003" x="806" y="390" width="39" height="40" frameX="-1" frameY="0" frameWidth="30" frameHeight="30" />
+<SubTexture name="jump0004" x="581" y="819" width="40" height="39" frameX="0" frameY="-1" frameWidth="30" frameHeight="30" />
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Male addiction Fountain.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Fountain0000" x="758" y="0" width="758" height="595" frameX="-800" frameY="-477" frameWidth="2385" frameHeight="1341"/>
+	<SubTexture name="Fountain0001" x="758" y="0" width="758" height="595" frameX="-800" frameY="-477" frameWidth="2385" frameHeight="1341"/>
+	<SubTexture name="Fountain0002" x="0" y="0" width="758" height="596" frameX="-800" frameY="-476" frameWidth="2385" frameHeight="1341"/>
+	<SubTexture name="Fountain0003" x="0" y="0" width="758" height="596" frameX="-800" frameY="-476" frameWidth="2385" frameHeight="1341"/>
+</TextureAtlas>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Icons.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Icon 10000" x="240" y="392" width="113" height="117" frameX="-63" frameY="-73" frameWidth="240" frameHeight="241"/>
+	<SubTexture name="Animation0000" x="124" y="392" width="116" height="117" frameX="-62" frameY="-73" frameWidth="240" frameHeight="241"/>
+	<SubTexture name="Animation0001" x="123" y="245" width="128" height="133" frameX="-61" frameY="-69" frameWidth="240" frameHeight="241"/>
+	<SubTexture name="Animation0002" x="0" y="245" width="123" height="147" frameX="-59" frameY="-60" frameWidth="240" frameHeight="241"/>
+	<SubTexture name="Animation0003" x="251" y="245" width="139" height="119" frameX="-65" frameY="-64" frameWidth="240" frameHeight="241"/>
+	<SubTexture name="Animation0004" x="481" y="260" width="118" height="118" frameX="-71" frameY="-61" frameWidth="240" frameHeight="241"/>
+	<SubTexture name="Animation0005" x="481" y="0" width="123" height="136" frameX="-54" frameY="-54" frameWidth="240" frameHeight="241"/>
+	<SubTexture name="Animation0006" x="243" y="0" width="238" height="239" frameX="-3" frameY="-4" frameWidth="240" frameHeight="241"/>
+	<SubTexture name="Animation0007" x="0" y="0" width="243" height="245" frameX="1" frameY="2" frameWidth="240" frameHeight="241"/>
+	<SubTexture name="Animation0008" x="481" y="136" width="118" height="124" frameX="-57" frameY="-59" frameWidth="240" frameHeight="241"/>
+	<SubTexture name="Animation0009" x="0" y="392" width="124" height="126" frameX="-54" frameY="-59" frameWidth="240" frameHeight="241"/>
+	<SubTexture name="Animation0010" x="481" y="136" width="118" height="124" frameX="-57" frameY="-59" frameWidth="240" frameHeight="241"/>
+	<SubTexture name="Animation0011" x="0" y="392" width="124" height="126" frameX="-54" frameY="-59" frameWidth="240" frameHeight="241"/>
+	<SubTexture name="Animation0012" x="481" y="136" width="118" height="124" frameX="-57" frameY="-59" frameWidth="240" frameHeight="241"/>
+	<SubTexture name="Animation0013" x="0" y="392" width="124" height="126" frameX="-54" frameY="-59" frameWidth="240" frameHeight="241"/>
+	<SubTexture name="Animation0014" x="481" y="136" width="118" height="124" frameX="-57" frameY="-59" frameWidth="240" frameHeight="241"/>
+	<SubTexture name="Animation0015" x="0" y="392" width="124" height="126" frameX="-54" frameY="-59" frameWidth="240" frameHeight="241"/>
+	<SubTexture name="Animation0016" x="481" y="136" width="118" height="124" frameX="-57" frameY="-59" frameWidth="240" frameHeight="241"/>
+	<SubTexture name="Icon 20000" x="240" y="392" width="113" height="117" frameX="-63" frameY="-73" frameWidth="240" frameHeight="241"/>
+</TextureAtlas>

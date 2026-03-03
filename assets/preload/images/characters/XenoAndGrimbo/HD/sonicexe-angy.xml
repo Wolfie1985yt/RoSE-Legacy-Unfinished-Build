@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sonicexe-angy.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Rage0000" x="1332" y="0" width="433" height="648" frameX="-61" frameY="-38" frameWidth="608" frameHeight="718"/>
+	<SubTexture name="Rage0001" x="0" y="651" width="436" height="645" frameX="-64" frameY="-41" frameWidth="608" frameHeight="718"/>
+	<SubTexture name="Rage0002" x="2193" y="633" width="428" height="638" frameX="-75" frameY="-48" frameWidth="608" frameHeight="718"/>
+	<SubTexture name="Rage0003" x="2193" y="1271" width="425" height="626" frameX="-82" frameY="-60" frameWidth="608" frameHeight="718"/>
+	<SubTexture name="Rage0004" x="2193" y="0" width="436" height="633" frameX="-82" frameY="-53" frameWidth="608" frameHeight="718"/>
+	<SubTexture name="Rage0005" x="870" y="651" width="455" height="612" frameX="-76" frameY="-74" frameWidth="608" frameHeight="718"/>
+	<SubTexture name="Rage0006" x="444" y="1296" width="445" height="622" frameX="-98" frameY="-64" frameWidth="608" frameHeight="718"/>
+	<SubTexture name="Rage0007" x="0" y="1296" width="444" height="626" frameX="-75" frameY="-60" frameWidth="608" frameHeight="718"/>
+	<SubTexture name="Rage0008" x="895" y="0" width="437" height="648" frameX="-62" frameY="-38" frameWidth="608" frameHeight="718"/>
+	<SubTexture name="Rage0009" x="0" y="0" width="446" height="651" frameX="-60" frameY="-36" frameWidth="608" frameHeight="718"/>
+	<SubTexture name="Rage0010" x="436" y="651" width="434" height="642" frameX="-71" frameY="-44" frameWidth="608" frameHeight="718"/>
+	<SubTexture name="Rage0011" x="1765" y="0" width="428" height="655" frameX="-68" frameY="-32" frameWidth="608" frameHeight="718"/>
+	<SubTexture name="Rage0012" x="446" y="0" width="449" height="643" frameX="-49" frameY="-43" frameWidth="608" frameHeight="718"/>
+	<SubTexture name="Rage0013" x="1332" y="648" width="433" height="648" frameX="-61" frameY="-38" frameWidth="608" frameHeight="718"/>
+</TextureAtlas>

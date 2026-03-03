@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Censored dead Tails.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Tails pillar0000" x="803" y="0" width="215" height="674" frameX="-332" frameY="-297" frameWidth="2385" frameHeight="1341"/>
+	<SubTexture name="Tails pillar0001" x="306" y="0" width="249" height="674" frameX="-295" frameY="-297" frameWidth="2385" frameHeight="1341"/>
+	<SubTexture name="Tails pillar0002" x="555" y="0" width="248" height="674" frameX="-296" frameY="-297" frameWidth="2385" frameHeight="1341"/>
+	<SubTexture name="Tails pillar0003" x="0" y="0" width="306" height="674" frameX="-308" frameY="-297" frameWidth="2385" frameHeight="1341"/>
+</TextureAtlas>

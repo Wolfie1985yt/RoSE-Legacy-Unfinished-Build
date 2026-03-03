@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg dance0000" x="0" y="0" width="386" height="321"/>
+	<SubTexture name="bg dance0001" x="0" y="0" width="386" height="321"/>
+	<SubTexture name="bg dance0002" x="386" y="0" width="386" height="321"/>
+	<SubTexture name="bg dance0003" x="386" y="0" width="386" height="321"/>
+	<SubTexture name="bg dance0004" x="772" y="0" width="386" height="321"/>
+	<SubTexture name="bg dance0005" x="772" y="0" width="386" height="321"/>
+	<SubTexture name="bg dance0006" x="1158" y="0" width="386" height="321"/>
+	<SubTexture name="bg dance0007" x="1158" y="0" width="386" height="321"/>
+	<SubTexture name="bg dance0008" x="1544" y="0" width="386" height="321"/>
+	<SubTexture name="bg dance0009" x="1544" y="0" width="386" height="321"/>
+	<SubTexture name="bg dance0010" x="0" y="321" width="386" height="321"/>
+	<SubTexture name="bg dance0011" x="0" y="321" width="386" height="321"/>
+	<SubTexture name="bg dance0012" x="386" y="321" width="386" height="321"/>
+	<SubTexture name="bg dance0013" x="386" y="321" width="386" height="321"/>
+	<SubTexture name="bg dance0014" x="772" y="321" width="386" height="321"/>
+	<SubTexture name="bg dance0015" x="772" y="321" width="386" height="321"/>
+	<SubTexture name="bg dance0016" x="1158" y="321" width="386" height="321"/>
+	<SubTexture name="bg dance0017" x="1158" y="321" width="386" height="321"/>
+	<SubTexture name="bg dance0018" x="1544" y="321" width="386" height="321"/>
+	<SubTexture name="bg dance0019" x="1544" y="321" width="386" height="321"/>
+</TextureAtlas>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lookalike Gameover.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="GameOver 0000" x="3098" y="0" width="1549" height="1080" frameX="2" frameY="2" frameWidth="1545" frameHeight="1076"/>
+	<SubTexture name="GameOver 0001" x="0" y="0" width="1549" height="1080" frameX="2" frameY="2" frameWidth="1545" frameHeight="1076"/>
+	<SubTexture name="GameOver 0002" x="0" y="2160" width="1549" height="1080" frameX="2" frameY="2" frameWidth="1545" frameHeight="1076"/>
+	<SubTexture name="GameOver 0003" x="1549" y="0" width="1549" height="1080" frameX="2" frameY="2" frameWidth="1545" frameHeight="1076"/>
+	<SubTexture name="Retry0000" x="0" y="1080" width="1549" height="1080" frameX="2" frameY="2" frameWidth="1545" frameHeight="1076"/>
+	<SubTexture name="Retry0001" x="1549" y="1080" width="1549" height="1080" frameX="2" frameY="2" frameWidth="1545" frameHeight="1076"/>
+	<SubTexture name="Retry0002" x="3098" y="1080" width="1549" height="1080" frameX="2" frameY="2" frameWidth="1545" frameHeight="1076"/>
+</TextureAtlas>

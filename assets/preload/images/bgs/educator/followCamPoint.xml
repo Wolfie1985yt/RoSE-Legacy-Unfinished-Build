@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sonicSpritesheet.png">
+<SubTexture name="idlefront0000" x="0" y="0" width="43" height="62" frameX="-8" frameY="-4" frameWidth="37" frameHeight="48" />
+<SubTexture name="walkfront0000" x="43" y="0" width="43" height="59" frameX="-8" frameY="-6" frameWidth="37" frameHeight="48" />
+<SubTexture name="walkfront0001" x="86" y="0" width="42" height="58" frameX="-8" frameY="-7" frameWidth="37" frameHeight="48" />
+<SubTexture name="walkfront0002" x="128" y="0" width="44" height="60" frameX="-7" frameY="-6" frameWidth="37" frameHeight="48" />
+<SubTexture name="walkfront0003" x="172" y="0" width="48" height="59" frameX="-6" frameY="-6" frameWidth="37" frameHeight="48" />
+<SubTexture name="walkfront0004" x="220" y="0" width="54" height="56" frameX="0" frameY="-8" frameWidth="37" frameHeight="48" />
+<SubTexture name="walkfront0005" x="0" y="62" width="48" height="59" frameX="-7" frameY="-6" frameWidth="37" frameHeight="48" />
+<SubTexture name="idleback0000" x="48" y="62" width="42" height="56" frameX="-8" frameY="-12" frameWidth="37" frameHeight="48" />
+<SubTexture name="walkback0000" x="90" y="62" width="40" height="58" frameX="-8" frameY="-9" frameWidth="37" frameHeight="48" />
+<SubTexture name="walkback0001" x="130" y="62" width="45" height="59" frameX="-8" frameY="-9" frameWidth="37" frameHeight="48" />
+<SubTexture name="walkback0002" x="175" y="62" width="40" height="59" frameX="-8" frameY="-9" frameWidth="37" frameHeight="48" />
+<SubTexture name="walkback0003" x="215" y="62" width="43" height="59" frameX="-7" frameY="-9" frameWidth="37" frameHeight="48" />
+<SubTexture name="walkback0004" x="0" y="121" width="50" height="60" frameX="-5" frameY="-8" frameWidth="37" frameHeight="48" />
+<SubTexture name="walkback0005" x="50" y="121" width="43" height="56" frameX="-7" frameY="-9" frameWidth="37" frameHeight="48" />
+<SubTexture name="idleside0000" x="93" y="121" width="50" height="58" frameX="-5" frameY="-10" frameWidth="37" frameHeight="48" />
+<SubTexture name="walkside0000" x="143" y="121" width="44" height="57" frameX="-6" frameY="-11" frameWidth="37" frameHeight="48" />
+<SubTexture name="walkside0001" x="187" y="121" width="56" height="57" frameX="0" frameY="-11" frameWidth="37" frameHeight="48" />
+<SubTexture name="walkside0002" x="243" y="121" width="49" height="59" frameX="-2" frameY="-9" frameWidth="37" frameHeight="48" />
+<SubTexture name="walkside0003" x="0" y="181" width="46" height="57" frameX="-7" frameY="-10" frameWidth="37" frameHeight="48" />
+<SubTexture name="walkside0004" x="46" y="181" width="57" height="57" frameX="0" frameY="-10" frameWidth="37" frameHeight="48" />
+<SubTexture name="walkside0005" x="103" y="181" width="50" height="57" frameX="0" frameY="-10" frameWidth="37" frameHeight="48" />
+<SubTexture name="foot-tap0000" x="0" y="238" width="49" height="58" frameX="-5" frameY="-10" frameWidth="37" frameHeight="48" />
+<SubTexture name="foot-tap0001" x="49" y="238" width="50" height="58" frameX="-5" frameY="-10" frameWidth="37" frameHeight="48" />
+<SubTexture name="helicopter0000" x="99" y="238" width="60" height="60" frameX="0" frameY="-8" frameWidth="40" frameHeight="48" />
+<SubTexture name="helicopter0001" x="159" y="238" width="60" height="60" frameX="0" frameY="-8" frameWidth="40" frameHeight="48" />
+<SubTexture name="hotairballoon0000" x="219" y="238" width="53" height="88" frameX="-4" frameY="0" frameWidth="40" frameHeight="68" />
+<SubTexture name="jump0000" x="272" y="238" width="50" height="50" frameX="-4" frameY="-10" frameWidth="37" frameHeight="48" />
+<SubTexture name="jump0001" x="153" y="181" width="49" height="50" frameX="-4" frameY="-10" frameWidth="37" frameHeight="48" />
+<SubTexture name="jump0002" x="202" y="181" width="50" height="49" frameX="-4" frameY="-10" frameWidth="37" frameHeight="48" />
+<SubTexture name="jump0003" x="252" y="181" width="49" height="50" frameX="-4" frameY="-10" frameWidth="37" frameHeight="48" />
+<SubTexture name="staredown0000" x="0" y="326" width="36" height="39" frameX="-11" frameY="-15" frameWidth="37" frameHeight="48" />
+<SubTexture name="staredownleft0000" x="36" y="326" width="36" height="39" frameX="-11" frameY="-15" frameWidth="37" frameHeight="48" />
+<SubTexture name="staredownright0000" x="72" y="326" width="36" height="39" frameX="-11" frameY="-15" frameWidth="37" frameHeight="48" />
+<SubTexture name="stareforward0000" x="108" y="326" width="36" height="39" frameX="-11" frameY="-15" frameWidth="37" frameHeight="48" />
+<SubTexture name="stareleft0000" x="144" y="326" width="36" height="39" frameX="-11" frameY="-15" frameWidth="37" frameHeight="48" />
+<SubTexture name="stareright0000" x="180" y="326" width="36" height="39" frameX="-12" frameY="-15" frameWidth="37" frameHeight="48" />
+<SubTexture name="stareup0000" x="0" y="365" width="36" height="39" frameX="-11" frameY="-15" frameWidth="37" frameHeight="48" />
+<SubTexture name="stareupleft0000" x="36" y="365" width="36" height="39" frameX="-11" frameY="-15" frameWidth="37" frameHeight="48" />
+<SubTexture name="stareupright0000" x="72" y="365" width="36" height="39" frameX="-11" frameY="-15" frameWidth="37" frameHeight="48" />
+</TextureAtlas>

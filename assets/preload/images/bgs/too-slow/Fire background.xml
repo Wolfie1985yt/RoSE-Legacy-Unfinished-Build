@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Fire background.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Fire background0000" x="2528" y="0" width="1264" height="387" frameX="2" frameY="-323" frameWidth="1260" frameHeight="708"/>
+	<SubTexture name="Fire background0001" x="0" y="1858" width="1264" height="407" frameX="2" frameY="-303" frameWidth="1260" frameHeight="708"/>
+	<SubTexture name="Fire background0002" x="0" y="1429" width="1264" height="429" frameX="2" frameY="-281" frameWidth="1260" frameHeight="708"/>
+	<SubTexture name="Fire background0003" x="1264" y="980" width="1264" height="449" frameX="2" frameY="-261" frameWidth="1260" frameHeight="708"/>
+	<SubTexture name="Fire background0004" x="1264" y="470" width="1264" height="470" frameX="2" frameY="-240" frameWidth="1260" frameHeight="708"/>
+	<SubTexture name="Fire background0005" x="0" y="490" width="1264" height="490" frameX="2" frameY="-220" frameWidth="1260" frameHeight="708"/>
+	<SubTexture name="Fire background0006" x="1264" y="3208" width="1264" height="292" frameX="2" frameY="-418" frameWidth="1260" frameHeight="708"/>
+	<SubTexture name="Fire background0007" x="2528" y="2265" width="1264" height="307" frameX="2" frameY="-403" frameWidth="1260" frameHeight="708"/>
+	<SubTexture name="Fire background0008" x="0" y="3503" width="1264" height="285" frameX="2" frameY="-425" frameWidth="1260" frameHeight="708"/>
+	<SubTexture name="Fire background0009" x="2528" y="2905" width="1264" height="297" frameX="2" frameY="-413" frameWidth="1260" frameHeight="708"/>
+	<SubTexture name="Fire background0010" x="2528" y="2598" width="1264" height="305" frameX="2" frameY="-405" frameWidth="1260" frameHeight="708"/>
+	<SubTexture name="Fire background0011" x="1264" y="2598" width="1264" height="305" frameX="2" frameY="-405" frameWidth="1260" frameHeight="708"/>
+	<SubTexture name="Fire background0012" x="0" y="2265" width="1264" height="333" frameX="2" frameY="-377" frameWidth="1260" frameHeight="708"/>
+	<SubTexture name="Fire background0013" x="2528" y="1472" width="1264" height="355" frameX="2" frameY="-355" frameWidth="1260" frameHeight="708"/>
+	<SubTexture name="Fire background0014" x="2528" y="387" width="1264" height="365" frameX="2" frameY="-345" frameWidth="1260" frameHeight="708"/>
+	<SubTexture name="Fire background0015" x="2528" y="0" width="1264" height="387" frameX="2" frameY="-323" frameWidth="1260" frameHeight="708"/>
+	<SubTexture name="Fire background0016" x="1264" y="1858" width="1264" height="407" frameX="2" frameY="-303" frameWidth="1260" frameHeight="708"/>
+	<SubTexture name="Fire background0017" x="1264" y="1429" width="1264" height="429" frameX="2" frameY="-281" frameWidth="1260" frameHeight="708"/>
+	<SubTexture name="Fire background0018" x="0" y="980" width="1264" height="449" frameX="2" frameY="-261" frameWidth="1260" frameHeight="708"/>
+	<SubTexture name="Fire background0019" x="1264" y="0" width="1264" height="470" frameX="2" frameY="-240" frameWidth="1260" frameHeight="708"/>
+	<SubTexture name="Fire background0020" x="0" y="0" width="1264" height="490" frameX="2" frameY="-220" frameWidth="1260" frameHeight="708"/>
+	<SubTexture name="Fire background0021" x="2528" y="3208" width="1264" height="292" frameX="2" frameY="-418" frameWidth="1260" frameHeight="708"/>
+	<SubTexture name="Fire background0022" x="0" y="2598" width="1264" height="307" frameX="2" frameY="-403" frameWidth="1260" frameHeight="708"/>
+	<SubTexture name="Fire background0023" x="1264" y="2265" width="1264" height="308" frameX="2" frameY="-402" frameWidth="1260" frameHeight="708"/>
+	<SubTexture name="Fire background0024" x="0" y="3208" width="1264" height="295" frameX="2" frameY="-415" frameWidth="1260" frameHeight="708"/>
+	<SubTexture name="Fire background0025" x="1264" y="2905" width="1264" height="301" frameX="2" frameY="-409" frameWidth="1260" frameHeight="708"/>
+	<SubTexture name="Fire background0026" x="0" y="2905" width="1264" height="303" frameX="2" frameY="-407" frameWidth="1260" frameHeight="708"/>
+	<SubTexture name="Fire background0027" x="2528" y="1827" width="1264" height="333" frameX="2" frameY="-377" frameWidth="1260" frameHeight="708"/>
+	<SubTexture name="Fire background0028" x="2528" y="1117" width="1264" height="355" frameX="2" frameY="-355" frameWidth="1260" frameHeight="708"/>
+	<SubTexture name="Fire background0029" x="2528" y="752" width="1264" height="365" frameX="2" frameY="-345" frameWidth="1260" frameHeight="708"/>
+</TextureAtlas>
