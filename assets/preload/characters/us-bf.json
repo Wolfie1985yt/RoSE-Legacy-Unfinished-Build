@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				23,
+				280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Majin BF Idle"
+		},
+		{
+			"offsets": [
+				21,
+				281
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Majin BF Right0"
+		},
+		{
+			"offsets": [
+				23,
+				279
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Majin BF Down0"
+		},
+		{
+			"offsets": [
+				27,
+				279
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Majin BF Left0"
+		},
+		{
+			"offsets": [
+				20,
+				279
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Majin BF Right Miss"
+		},
+		{
+			"offsets": [
+				23,
+				281
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Majin BF Up Miss"
+		},
+		{
+			"offsets": [
+				21,
+				279
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Majin BF Down Miss"
+		},
+		{
+			"offsets": [
+				26,
+				280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Majin BF Left Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				280
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Majin BF Erect Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				279
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Majin BF Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				277
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Majin BF Erect Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				281
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Majin BF Erect Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				280
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Majin BF Erect Left0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				23,
+				281
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "Majin BF Erect Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF/HD/Majin-Bf-US",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "us-bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		21,
+		44,
+		110
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

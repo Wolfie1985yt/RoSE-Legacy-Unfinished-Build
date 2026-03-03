@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-97,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Melthog_2 idle"
+		},
+		{
+			"offsets": [
+				-106,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Melthog_2 left"
+		},
+		{
+			"offsets": [
+				-88,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Melthog_2 down"
+		},
+		{
+			"offsets": [
+				-97,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Melthog_2 up"
+		},
+		{
+			"offsets": [
+				-88,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Melthog_2 right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Melthog/Melthog_2",
+	"position": [
+		0,
+		420
+	],
+	"healthicon": "melthog2",
+	"flip_x": false,
+	"healthbar_colors": [
+		47,
+		47,
+		164
+	],
+	"camera_position": [
+		50,
+		-150
+	],
+	"sing_duration": 6.1,
+	"scale": 9
+}

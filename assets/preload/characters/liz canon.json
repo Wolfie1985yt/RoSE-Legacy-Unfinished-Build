@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-11,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Liz Down"
+		},
+		{
+			"offsets": [
+				78,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Liz Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				122,
+				8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Liz Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Liz Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Liz Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Liz/Liz canon",
+	"position": [
+		-30,
+		-30
+	],
+	"healthicon": "lizspooky",
+	"flip_x": false,
+	"healthbar_colors": [
+		163,
+		71,
+		141
+	],
+	"camera_position": [
+		280,
+		-80
+	],
+	"sing_duration": 5.00000000000001,
+	"scale": 0.8
+}

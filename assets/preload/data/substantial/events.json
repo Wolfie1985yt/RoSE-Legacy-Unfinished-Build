@@ -1,0 +1,139 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "xterion",
+		"player1": "bf-john9doe-3d-xterion",
+		"player2": "xterion",
+		"player3": null,
+		"events": [
+			[
+				12342.8571428571,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				12428.5714285714,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				34285.7142857143,
+				[
+					[
+						"Zoom Camera",
+						"1.5",
+						""
+					]
+				]
+			],
+			[
+				34289.2857142857,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				37028.5714285714,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				39771.4285714286,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				42514.2857142857,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				45257.1428571429,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				45264.2857142857,
+				[
+					[
+						"Zoom Camera",
+						"0.85",
+						""
+					]
+				]
+			],
+			[
+				168342.857142857,
+				[
+					[
+						"Change Character",
+						"dad",
+						"xterion-2D"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				168685.714285714,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "",
+		"bfEncore": "bf-encore",
+		"gfEncore": "GF_hedhehog",
+		"validScore": false,
+		"gfVersion": "Invis",
+		"bpm": 175,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"gfSkin": "gf",
+		"bfSkin": "bf",
+		"song": "substantial",
+		"isRing": null
+	}
+}

@@ -1,0 +1,74 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "sunkStage",
+		"player1": "bf-sunkeh",
+		"player2": "sunky",
+		"player3": null,
+		"events": [
+			[
+				86333.3333333333,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-sunkehclassic"
+					],
+					[
+						"Change Character",
+						"1",
+						"sunkyclassic"
+					]
+				]
+			],
+			[
+				131916.666666666,
+				[
+					[
+						"Change Character",
+						"1",
+						"sunky"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-sunkeh"
+					]
+				]
+			],
+			[
+				143208.333333333,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-sunkeh-cute"
+					]
+				]
+			],
+			[
+				149666.666666667,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-sunkeh"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "",
+		"bfEncore": "bf-encore",
+		"gfEncore": "GF_hedhehog",
+		"validScore": false,
+		"gfVersion": "gf-sunkeh",
+		"bpm": 180,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"gfSkin": "gf",
+		"bfSkin": "bf",
+		"song": "milk",
+		"isRing": null
+	}
+}

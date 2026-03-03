@@ -1,0 +1,51 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-130,
+				-260
+			],
+			"loop": false,
+			"fps": 32,
+			"anim": "idle",
+			"indices": [
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20
+			],
+			"name": "idle cffff instancia 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DelayAndComboAdjust/xenofakes",
+	"position": [
+		-430,
+		-800
+	],
+	"healthicon": "hog",
+	"flip_x": false,
+	"healthbar_colors": [
+		29,
+		24,
+		206
+	],
+	"camera_position": [
+		-220,
+		220
+	],
+	"sing_duration": 4,
+	"scale": 0.27
+}

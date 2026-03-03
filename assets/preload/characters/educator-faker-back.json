@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "idle",
+			"loop": true,
+			"name": "edcuator"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Educator/edcuator_back_turned",
+	"position": [
+		280,
+		410
+	],
+	"healthicon": "educator",
+	"flip_x": false,
+	"healthbar_colors": [
+		1,
+		20,
+		163
+	],
+	"camera_position": [
+		-355,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 2.15
+}

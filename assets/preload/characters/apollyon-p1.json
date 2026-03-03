@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				29,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "apollyon-p1 down"
+		},
+		{
+			"offsets": [
+				39,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "apollyon-p1 left"
+		},
+		{
+			"offsets": [
+				21,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "apollyon-p1 up"
+		},
+		{
+			"offsets": [
+				49,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "apollyon-p1 right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				30,
+				-31
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "apollyon-p1 idle0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				183,
+				132
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "apollyon-p1 idle-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				183,
+				132
+			],
+			"anim": "transform",
+			"fps": 24,
+			"name": "apollyon-p1 transform",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Apollyon/apollyon-p1",
+	"position": [
+		0,
+		400
+	],
+	"healthicon": "icon-Apollyon1",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		88,
+		175
+	],
+	"camera_position": [
+		20,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 8.99999999999998
+}

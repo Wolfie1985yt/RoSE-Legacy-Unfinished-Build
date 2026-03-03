@@ -1,0 +1,174 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-171,
+				-480
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Normal_DOWN"
+		},
+		{
+			"offsets": [
+				-116,
+				-428
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Normal_LEFT"
+		},
+		{
+			"offsets": [
+				-273,
+				-329
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Normal_UP"
+		},
+		{
+			"offsets": [
+				-250,
+				-420
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Normal_IDLE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-247,
+				-104
+			],
+			"anim": "bringit",
+			"fps": 24,
+			"name": "dialogue",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-107,
+				-393
+			],
+			"anim": "bring",
+			"fps": 24,
+			"name": "d",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				823,
+				-108
+			],
+			"anim": "intro",
+			"fps": 30,
+			"name": "treno copia",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-300,
+				-430
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Normal_RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NormalCD/Normal",
+	"position": [
+		0,
+		-30
+	],
+	"healthicon": "normal",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		125,
+		160
+	],
+	"camera_position": [
+		150,
+		420
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

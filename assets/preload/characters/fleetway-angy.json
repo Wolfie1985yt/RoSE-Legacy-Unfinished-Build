@@ -1,0 +1,161 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Fleetway Idle Alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				63
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Fleetway Up Alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-55
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Fleetway Right Alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-111
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Fleetway Down Alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				133,
+				-80
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Fleetway Left Alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Fleetway/fleetway4",
+	"position": [
+		-50,
+		0
+	],
+	"healthicon": "fleetway",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		115,
+		0
+	],
+	"camera_position": [
+		-50,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 0.95
+}

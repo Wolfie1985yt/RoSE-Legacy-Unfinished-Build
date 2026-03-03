@@ -1,0 +1,169 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				149,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Down Miss"
+		},
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Up Miss"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				138,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				21,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-18,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Right Miss"
+		},
+		{
+			"offsets": [
+				-12,
+				-3
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				22,
+				3
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singRIGHTmiss",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"name": "Left Miss"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/FatalAndCritical/fatal-normal-playable",
+	"position": [
+		0,
+		320
+	],
+	"healthicon": "icon-fatal-sonic",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		60,
+		110
+	],
+	"camera_position": [
+		-650,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 2.6
+}

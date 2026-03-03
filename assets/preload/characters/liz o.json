@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-22,
+				-2
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				822,
+				-482
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-863,
+				459
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				831,
+				648
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-1035,
+				-534
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Liz/Liz o",
+	"position": [
+		590,
+		70
+	],
+	"healthicon": "liz",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		44,
+		204
+	],
+	"camera_position": [
+		-160,
+		-40
+	],
+	"sing_duration": 5.00000000000001,
+	"scale": 1.6
+}

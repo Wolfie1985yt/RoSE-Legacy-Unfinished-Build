@@ -1,0 +1,34 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "dsk",
+		"player1": "bf",
+		"player2": "dsk",
+		"player3": null,
+		"events": [
+			[
+				127862.068965517,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dsk2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "",
+		"bfEncore": "bf-encore",
+		"gfEncore": "GF_hedhehog",
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 145,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"gfSkin": "gf",
+		"bfSkin": "bf",
+		"song": "miasma",
+		"isRing": null
+	}
+}

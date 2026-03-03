@@ -1,0 +1,84 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-60,
+				-80
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13,
+				13
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Rage"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/XenoAndGrimbo/HD/sonicexe-angy",
+	"position": [
+		-182,
+		-60
+	],
+	"healthicon": "sonicexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		85,
+		142
+	],
+	"camera_position": [
+		-10,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

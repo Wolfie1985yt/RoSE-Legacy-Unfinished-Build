@@ -1,0 +1,64 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "shine",
+		"player1": "sunshinebf",
+		"player2": "dollencore",
+		"player3": null,
+		"events": [
+			[
+				24000,
+				[
+					[
+						"Flash Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				80470.5882352941,
+				[
+					[
+						"Flash Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				118588.235294118,
+				[
+					[
+						"Flash Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				197647.058823529,
+				[
+					[
+						"Flash Camera",
+						"0.7",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "",
+		"bfEncore": "bf-encore",
+		"gfEncore": "GF_hedhehog",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 85,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"gfSkin": "GF_hedhehog",
+		"bfSkin": "bf-encore",
+		"song": "sunshine-encore",
+		"isRing": false
+	}
+}

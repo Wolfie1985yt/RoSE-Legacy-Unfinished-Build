@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-5,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-5,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-5,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-1
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "D Miss"
+		},
+		{
+			"offsets": [
+				-5,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "L Miss"
+		},
+		{
+			"offsets": [
+				-5,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "R Miss"
+		},
+		{
+			"offsets": [
+				-5,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "U Miss"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/BF/Pixel/Mini_BF_S3_White",
+	"position": [
+		10,
+		620
+	],
+	"healthicon": "bf-fatal",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-20,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 4
+}

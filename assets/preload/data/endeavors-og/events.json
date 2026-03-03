@@ -1,0 +1,94 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "endeavors",
+		"player1": "endless_bf",
+		"player2": "majin",
+		"player3": null,
+		"events": [
+			[
+				4.56204379562044,
+				[
+					[
+						"Camera_Tween_Zoom",
+						"1, 1.75",
+						"linear"
+					]
+				]
+			],
+			[
+				26055.6222858727,
+				[
+					[
+						"Change Character",
+						"1",
+						"majin_new"
+					]
+				]
+			],
+			[
+				50359.4197542272,
+				[
+					[
+						"Change Character",
+						"1",
+						"majin_pixel"
+					],
+					[
+						"Change Character",
+						"BF",
+						"bf-pixel-majin"
+					]
+				]
+			],
+			[
+				80739.1665896702,
+				[
+					[
+						"Change Character",
+						"1",
+						"majin_new"
+					],
+					[
+						"Change Character",
+						"BF",
+						"endless_bf"
+					]
+				]
+			],
+			[
+				105042.964058025,
+				[
+					[
+						"Change Character",
+						"dad",
+						"buff-majin"
+					],
+					[
+						"Change Character",
+						"BF",
+						"never-end-bf"
+					],
+					[
+						"Cinematic_Bars",
+						"2",
+						"20"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "",
+		"bfEncore": "bf-encore",
+		"gfEncore": "GF_hedhehog",
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 138,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"gfSkin": "gf",
+		"bfSkin": "bf",
+		"song": "endeavors-og",
+		"isRing": null
+	}
+}

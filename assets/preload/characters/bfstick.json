@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				37,
+				180
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": true,
+			"name": "bfstick idle"
+		},
+		{
+			"offsets": [
+				37,
+				182
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bfstick left"
+		},
+		{
+			"offsets": [
+				35,
+				182
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bfstick up"
+		},
+		{
+			"offsets": [
+				36,
+				183
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bfstick down"
+		},
+		{
+			"offsets": [
+				36,
+				182
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bfstick right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ChartEditor/bfstick",
+	"position": [
+		-5,
+		347
+	],
+	"healthicon": "majin",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		15,
+		255
+	],
+	"camera_position": [
+		-140,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

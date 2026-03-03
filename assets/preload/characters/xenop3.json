@@ -1,0 +1,93 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-807,
+				-710
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "idle instancia 1",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"offsets": [
+				-687,
+				-711
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down instancia 1"
+		},
+		{
+			"offsets": [
+				-757,
+				-540
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up instancia 1"
+		},
+		{
+			"offsets": [
+				-621,
+				-673
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left instancia 1"
+		},
+		{
+			"offsets": [
+				-814,
+				-692
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right instancia 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/XenoAndGrimbo/HD/xenop3",
+	"position": [
+		-1000,
+		-1000
+	],
+	"healthicon": "BEAST",
+	"flip_x": false,
+	"healthbar_colors": [
+		163,
+		55,
+		255
+	],
+	"camera_position": [
+		-50,
+		360
+	],
+	"sing_duration": 4,
+	"scale": 1.35
+}

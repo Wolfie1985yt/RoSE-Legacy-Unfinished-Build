@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "edcuator faker idle"
+		},
+		{
+			"offsets": [
+				-4,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "edcuator faker up"
+		},
+		{
+			"offsets": [
+				0,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "edcuator faker down"
+		},
+		{
+			"offsets": [
+				-5,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "edcuator faker left"
+		},
+		{
+			"offsets": [
+				0,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "edcuator faker right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Educator/edcuator_phase_1",
+	"position": [
+		280,
+		410
+	],
+	"healthicon": "educator",
+	"flip_x": false,
+	"healthbar_colors": [
+		1,
+		20,
+		163
+	],
+	"camera_position": [
+		-355,
+		-120
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 2.15
+}

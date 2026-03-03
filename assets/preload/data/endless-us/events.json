@@ -1,0 +1,74 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "fun-cd",
+		"player1": "us-bf",
+		"player2": "majinus",
+		"player3": null,
+		"events": [
+			[
+				106666.666666666,
+				[
+					[
+						"Majin count",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				107037.037037037,
+				[
+					[
+						"Majin count",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				107407.407407407,
+				[
+					[
+						"Majin count",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				107777.777777778,
+				[
+					[
+						"Majin count",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				128888.888888889,
+				[
+					[
+						"",
+						"raimbows part",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "",
+		"bfEncore": "bf-encore",
+		"gfEncore": "GF_hedhehog",
+		"validScore": false,
+		"gfVersion": "us-bf",
+		"bpm": 162,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"gfSkin": "gf",
+		"bfSkin": "bf",
+		"song": "endless-us",
+		"isRing": true
+	}
+}

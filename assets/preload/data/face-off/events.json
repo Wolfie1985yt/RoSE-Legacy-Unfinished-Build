@@ -1,0 +1,34 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "bfexe",
+		"player1": "bf-faceoff",
+		"player2": "bf-faceoff-fake",
+		"player3": null,
+		"events": [
+			[
+				56598.9304812834,
+				[
+					[
+						"Change Character",
+						"dad",
+						"lookalike"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "",
+		"bfEncore": "bf-encore",
+		"gfEncore": "GF_hedhehog",
+		"validScore": false,
+		"gfVersion": "bf-faceoff",
+		"bpm": 110,
+		"arrowSkin": "",
+		"needsVoices": false,
+		"gfSkin": "gf",
+		"bfSkin": "bf",
+		"song": "face-off",
+		"isRing": false
+	}
+}

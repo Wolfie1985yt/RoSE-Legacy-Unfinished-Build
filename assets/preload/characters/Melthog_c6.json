@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Melthog_c6 idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-158,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Melthog_c6 left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Melthog_c6 down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-104,
+				-20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Melthog_c6 up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				-20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Melthog_c6 right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-59,
+				-20
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "Melthog_c6 laugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Melthog/Melthog_c6",
+	"position": [
+		0,
+		420
+	],
+	"healthicon": "melthogC",
+	"flip_x": false,
+	"healthbar_colors": [
+		47,
+		47,
+		164
+	],
+	"camera_position": [
+		50,
+		-150
+	],
+	"sing_duration": 6.1,
+	"scale": 9
+}

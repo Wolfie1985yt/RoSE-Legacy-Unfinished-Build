@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				4,
+				519
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-66,
+				519
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				4,
+				519
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-6,
+				519
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-16,
+				519
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/FatalAndCritical/Fatal_Playable_S3",
+	"position": [
+		560,
+		910
+	],
+	"healthicon": "icon-fatal-s3",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		60,
+		110
+	],
+	"camera_position": [
+		-350,
+		-610
+	],
+	"sing_duration": 4,
+	"scale": 5.00000000000002
+}

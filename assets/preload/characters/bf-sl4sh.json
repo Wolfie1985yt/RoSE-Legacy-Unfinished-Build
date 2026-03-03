@@ -1,0 +1,189 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "hey",
+			"indices": [],
+			"name": "Hey"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "scared",
+			"indices": [],
+			"name": "Scared"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Death"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "Retry"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singDOWNmiss",
+			"fps": 12,
+			"name": "Miss Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singUPmiss",
+			"fps": 12,
+			"name": "Miss Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "amogus",
+			"fps": 12,
+			"name": "Get Amogusd",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 12,
+			"name": "GameOver",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Miss Right"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Miss Left"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/BF/Pixel/sl4sh_bf",
+	"position": [
+		180,
+		540
+	],
+	"healthicon": "bf-slash-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		255
+	],
+	"camera_position": [
+		160,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 6,
+	"_editor_isPlayer": true
+}

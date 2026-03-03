@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-279,
+				-326
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Furnace down"
+		},
+		{
+			"offsets": [
+				-273,
+				-320
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Furnace up"
+		},
+		{
+			"offsets": [
+				-280,
+				-330
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Furnace right"
+		},
+		{
+			"offsets": [
+				-270,
+				-330
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Furnace idle"
+		},
+		{
+			"offsets": [
+				-280,
+				-330
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Furnace right"
+		},
+		{
+			"offsets": [
+				-272,
+				-328
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Furnace left"
+		},
+		{
+			"offsets": [
+				-272,
+				-328
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Furnace left"
+		},
+		{
+			"offsets": [
+				-273,
+				-320
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Furnace up"
+		},
+		{
+			"offsets": [
+				-279,
+				-326
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Furnace down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/FurnaceSonicAndStarved/Furnace_sheet",
+	"position": [
+		-20,
+		-70
+	],
+	"healthicon": "furnace",
+	"flip_x": false,
+	"healthbar_colors": [
+		78,
+		78,
+		78
+	],
+	"camera_position": [
+		170,
+		440
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

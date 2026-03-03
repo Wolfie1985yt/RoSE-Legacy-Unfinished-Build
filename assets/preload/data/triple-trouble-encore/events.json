@@ -1,0 +1,314 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "trioStage-encore",
+		"player1": "bf-encore",
+		"player2": "Tails-Encore",
+		"player3": null,
+		"events": [
+			[
+				16294,
+				[
+					[
+						"startstatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				17794.5205479452,
+				[
+					[
+						"tailsjump",
+						"",
+						""
+					]
+				]
+			],
+			[
+				42695.8904109589,
+				[
+					[
+						"tailsjump",
+						"",
+						""
+					]
+				]
+			],
+			[
+				95709.589041096,
+				[
+					[
+						"tailsjump",
+						"",
+						""
+					]
+				]
+			],
+			[
+				121205.479452055,
+				[
+					[
+						"startstatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				122849.315068493,
+				[
+					[
+						"Change Character",
+						"dad",
+						"BEAST-Enc"
+					]
+				]
+			],
+			[
+				122853.595890411,
+				[
+					[
+						"Change Character",
+						"bf",
+						"Encore-right"
+					]
+				]
+			],
+			[
+				127780.821917808,
+				[
+					[
+						"startstatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				136051.369863014,
+				[
+					[
+						"playVideo",
+						"i-am-god-NoAudio",
+						""
+					]
+				]
+			],
+			[
+				137643.835616438,
+				[
+					[
+						"startstatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				140794.520547945,
+				[
+					[
+						"startstatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				152508.187214612,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-encore-mirror"
+					]
+				]
+			],
+			[
+				152508.187214612,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Knuckles-Encore"
+					]
+				]
+			],
+			[
+				218262.885844749,
+				[
+					[
+						"knuxjump",
+						"",
+						""
+					]
+				]
+			],
+			[
+				295800.557077626,
+				[
+					[
+						"startstatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				297166.27136334,
+				[
+					[
+						"Change Character",
+						"dad",
+						"xenop31"
+					]
+				]
+			],
+			[
+				297166.735649054,
+				[
+					[
+						"Change Character",
+						"bf",
+						"Encore-left"
+					]
+				]
+			],
+			[
+				348277.096880673,
+				[
+					[
+						"startstatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				349777.039036332,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Eggman-Encore"
+					]
+				]
+			],
+			[
+				349780.550272287,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-encore"
+					]
+				]
+			],
+			[
+				354832.398085493,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				361335.326568483,
+				[
+					[
+						"eggjump",
+						"",
+						""
+					]
+				]
+			],
+			[
+				366443.843868625,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				418443.675193926,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				453142.338616675,
+				[
+					[
+						"eggjump",
+						"",
+						""
+					]
+				]
+			],
+			[
+				482058.236861339,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				486596.819772239,
+				[
+					[
+						"startstatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				488564.296905973,
+				[
+					[
+						"Change Character",
+						"dad",
+						"BEAST-Enc"
+					]
+				]
+			],
+			[
+				488564.641935212,
+				[
+					[
+						"Change Character",
+						"bf",
+						"Encore-right"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "",
+		"bfEncore": "bf-encore",
+		"gfEncore": "GF_hedhehog",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 105,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"gfSkin": "GF_hedhehog",
+		"bfSkin": "bf-encore",
+		"song": "triple-trouble-encore",
+		"isRing": true
+	}
+}

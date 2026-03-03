@@ -1,0 +1,254 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				23
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				25
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				21
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				71
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				22
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				36
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "alt left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				30
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "alt down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				103
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "alt up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				51
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "alt right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				92
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "missleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				68
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "missdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				92
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "missup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				56
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "missright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				65
+			],
+			"anim": "singDOWNmiss-alt",
+			"fps": 24,
+			"name": "alt missdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				34
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Bf Hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				114
+			],
+			"anim": "singLEFTmiss-alt",
+			"fps": 24,
+			"name": "alt missleft instancia 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				124
+			],
+			"anim": "singUPmiss-alt",
+			"fps": 24,
+			"name": "altmissup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				83
+			],
+			"anim": "singRIGHTmiss-alt",
+			"fps": 24,
+			"name": "altmissright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				24
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "treno",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				46
+			],
+			"anim": "hey-alt",
+			"fps": 24,
+			"name": "v",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				14
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "Dodge",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF/HD/bf-dng",
+	"position": [
+		-90,
+		300
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-50,
+		100
+	],
+	"sing_duration": 7.99999999999999,
+	"scale": 0.67
+}

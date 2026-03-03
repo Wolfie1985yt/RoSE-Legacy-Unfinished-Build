@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "singLEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				-17
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "singDOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				24
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "singRIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				54
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "singUP0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				54,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "singLEFTmiss"
+		},
+		{
+			"offsets": [
+				74,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "singDOWNmiss"
+		},
+		{
+			"offsets": [
+				34,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "singRIGHTmiss"
+		},
+		{
+			"offsets": [
+				37,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "singUPmiss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF/HD/bf-sunkeh-special-part",
+	"position": [
+		50,
+		230
+	],
+	"healthicon": "bf-sunkeh",
+	"flip_x": true,
+	"healthbar_colors": [
+		54,
+		127,
+		229
+	],
+	"camera_position": [
+		140,
+		10
+	],
+	"sing_duration": 5,
+	"scale": 1
+}

@@ -1,0 +1,54 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "hog",
+		"player1": "bf",
+		"player2": "hog",
+		"player3": null,
+		"events": [
+			[
+				135428.571428571,
+				[
+					[
+						"Lyrics",
+						"Watch this!--0x1d18ce",
+						"0.86"
+					]
+				]
+			],
+			[
+				149357.142857143,
+				[
+					[
+						"Lyrics",
+						"Good job!--0x1d18ce",
+						"0.63"
+					]
+				]
+			],
+			[
+				150214.285714286,
+				[
+					[
+						"Lyrics",
+						"My turn!--0x1d18ce",
+						"0.65"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "",
+		"bfEncore": "bf-encore",
+		"gfEncore": "GF_hedhehog",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 140,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"gfSkin": "gf",
+		"bfSkin": "bf",
+		"song": "hedge",
+		"isRing": null
+	}
+}

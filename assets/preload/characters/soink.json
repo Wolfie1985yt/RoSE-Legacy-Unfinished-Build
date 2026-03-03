@@ -1,0 +1,170 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				281,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-125
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				71
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-190,
+				9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				341,
+				5
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "xglitch-left"
+		},
+		{
+			"offsets": [
+				-170,
+				9
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "xglitch-right"
+		},
+		{
+			"offsets": [
+				33,
+				-115
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "xglitch-down"
+		},
+		{
+			"offsets": [
+				0,
+				83
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "xglitch-up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Soink/soink",
+	"position": [
+		0,
+		120
+	],
+	"healthicon": "soink",
+	"flip_x": false,
+	"healthbar_colors": [
+		53,
+		0,
+		202
+	],
+	"camera_position": [
+		20,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

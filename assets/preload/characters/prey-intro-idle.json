@@ -1,0 +1,23 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [-487, -588],
+			"anim": "idle",
+			"fps": 14,
+			"name": "Intro Idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/FurnaceSonicAndStarved/Prey_pre-Idle",
+	"position": [20, -70],
+	"healthicon": "sonic",
+	"flip_x": true,
+	"healthbar_colors": [108, 108, 216],
+	"camera_position": [-570, 660],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

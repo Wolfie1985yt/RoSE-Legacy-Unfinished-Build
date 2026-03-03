@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				129,
+				88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				103,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				32,
+				134
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-27,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				45,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "laugh"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/XenoAndGrimbo/HD/grimbo",
+	"position": [
+		-430,
+		-170
+	],
+	"healthicon": "grimbo",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		82,
+		182
+	],
+	"camera_position": [
+		120,
+		300
+	],
+	"sing_duration": 6.1,
+	"scale": 0.54
+}

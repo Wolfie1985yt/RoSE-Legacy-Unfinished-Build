@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				416,
+				308
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up instancia 1"
+		},
+		{
+			"offsets": [
+				345,
+				240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle instancia 1"
+		},
+		{
+			"offsets": [
+				358,
+				225
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down instancia 1"
+		},
+		{
+			"offsets": [
+				502,
+				234
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left instancia 1"
+		},
+		{
+			"offsets": [
+				346,
+				235
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right instancia 1"
+		},
+		{
+			"offsets": [
+				395,
+				235
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh",
+			"indices": [],
+			"name": "risa instancia 1"
+		},
+		{
+			"offsets": [
+				348,
+				220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "snap",
+			"indices": [],
+			"name": "chao instancia 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LordX/lorx",
+	"position": [
+		300,
+		350
+	],
+	"healthicon": "soylent",
+	"flip_x": false,
+	"healthbar_colors": [
+		189,
+		180,
+		135
+	],
+	"camera_position": [
+		-220,
+		-50
+	],
+	"sing_duration": 3,
+	"scale": 0.8
+}

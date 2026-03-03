@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				35,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "singLEFT0"
+		},
+		{
+			"offsets": [
+				8,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "singDOWN0"
+		},
+		{
+			"offsets": [
+				-15,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "singRIGHT0"
+		},
+		{
+			"offsets": [
+				-19,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "singUP0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				5
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "singLEFTmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-26
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "singDOWNmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				-1
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "singRIGHTmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				37
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "singUPmiss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				94,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "singLEFT-alt"
+		},
+		{
+			"offsets": [
+				0,
+				-54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "singDOWN-alt"
+		},
+		{
+			"offsets": [
+				-2,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "singRIGHT-alt"
+		},
+		{
+			"offsets": [
+				-3,
+				155
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "singUP-alt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF/HD/bf-sunkeh",
+	"position": [
+		0,
+		230
+	],
+	"healthicon": "bf-sunkeh",
+	"flip_x": true,
+	"healthbar_colors": [
+		54,
+		127,
+		229
+	],
+	"camera_position": [
+		140,
+		10
+	],
+	"sing_duration": 5,
+	"scale": 1
+}

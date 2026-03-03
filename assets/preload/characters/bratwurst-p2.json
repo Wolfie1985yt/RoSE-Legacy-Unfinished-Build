@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				159,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Bratwurts left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Bratwurts down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				77
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Bratwurts up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Bratwurts right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				7
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Bratwurts idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Bratwurst/bratwurst_p2",
+	"position": [
+		-430,
+		-430
+	],
+	"healthicon": "icon-bratwurst-p2",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		72,
+		98
+	],
+	"camera_position": [
+		-30,
+		120
+	],
+	"sing_duration": 7.99999999999999,
+	"scale": 0.8,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-99,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Melthog_3 idle"
+		},
+		{
+			"offsets": [
+				-108,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Melthog_3 left"
+		},
+		{
+			"offsets": [
+				-90,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Melthog_3 down"
+		},
+		{
+			"offsets": [
+				-99,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Melthog_3 up"
+		},
+		{
+			"offsets": [
+				-36,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Melthog_3 right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Melthog/Melthog_3",
+	"position": [
+		0,
+		420
+	],
+	"healthicon": "melthog3",
+	"flip_x": false,
+	"healthbar_colors": [
+		47,
+		47,
+		164
+	],
+	"camera_position": [
+		50,
+		-150
+	],
+	"sing_duration": 6.1,
+	"scale": 9
+}

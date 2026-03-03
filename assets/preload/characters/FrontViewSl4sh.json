@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				13,
+				516
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sl4sh idle"
+		},
+		{
+			"offsets": [
+				13,
+				516
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sl4sh down"
+		},
+		{
+			"offsets": [
+				13,
+				515
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sl4sh up"
+		},
+		{
+			"offsets": [
+				16,
+				516
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sl4sh right"
+		},
+		{
+			"offsets": [
+				13,
+				515
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sl4sh left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				516
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "sl4sh attack",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/SL4SH/frontviewsl4sh",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "icon-sl4sh-pov",
+	"flip_x": false,
+	"healthbar_colors": [
+		56,
+		56,
+		56
+	],
+	"camera_position": [
+		-730,
+		-675
+	],
+	"sing_duration": 4,
+	"scale": 3.00000000000001
+}
